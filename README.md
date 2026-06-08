@@ -2,7 +2,56 @@
 
 # Projeto de Extensão Universitária
 
-# ConectaTech Sinop
+# Integratech Sinop
+
+
+- [Integratech-sinop](#integratech-sinop)
+- [Projeto de Extensão Universitária](#projeto-de-extensão-universitária)
+- [Integratech Sinop](#integratech-sinop-1)
+  - [Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação](#laboratório-extensionista-de-soluções-digitais-inovação-e-agrocomputação)
+  - [1. Identificação do Projeto](#1-identificação-do-projeto)
+  - [2. Resumo](#2-resumo)
+  - [3. Justificativa](#3-justificativa)
+  - [4. Público-alvo](#4-público-alvo)
+  - [5. Objetivo Geral](#5-objetivo-geral)
+  - [6. Objetivos Específicos](#6-objetivos-específicos)
+  - [7. Linhas de Atuação](#7-linhas-de-atuação)
+    - [7.1 Sistemas de Informação e Software](#71-sistemas-de-informação-e-software)
+    - [7.2 Dados, Indicadores e Dashboards](#72-dados-indicadores-e-dashboards)
+    - [7.3 Agrocomputação e Tecnologia para o Agro](#73-agrocomputação-e-tecnologia-para-o-agro)
+    - [7.4 Inovação, Prototipação e Consultoria Tecnológica](#74-inovação-prototipação-e-consultoria-tecnológica)
+    - [7.5 Conteúdo Técnico e Disseminação](#75-conteúdo-técnico-e-disseminação)
+  - [8. Metodologia Simplificada](#8-metodologia-simplificada)
+    - [8.1 Etapa 1 — Entrada da Demanda e Triagem](#81-etapa-1--entrada-da-demanda-e-triagem)
+    - [8.2 Etapa 2 — Plano Enxuto de Atendimento](#82-etapa-2--plano-enxuto-de-atendimento)
+    - [8.3 Etapa 3 — Desenvolvimento, Acompanhamento e Validação](#83-etapa-3--desenvolvimento-acompanhamento-e-validação)
+    - [8.4 Etapa 4 — Entrega Final e Avaliação](#84-etapa-4--entrega-final-e-avaliação)
+  - [9. Documentação Mínima Obrigatória](#9-documentação-mínima-obrigatória)
+  - [10. Tipos de Produtos Esperados](#10-tipos-de-produtos-esperados)
+  - [11. Organização das Equipes](#11-organização-das-equipes)
+  - [12. Responsabilidades dos Participantes](#12-responsabilidades-dos-participantes)
+    - [12.1 Coordenador](#121-coordenador)
+    - [12.2 Professores Orientadores](#122-professores-orientadores)
+    - [12.3 Discentes](#123-discentes)
+    - [12.4 Empresas, Produtores e Instituições Atendidas](#124-empresas-produtores-e-instituições-atendidas)
+  - [13. Critérios para Aceitação de Demandas](#13-critérios-para-aceitação-de-demandas)
+  - [14. Princípios de Funcionamento](#14-princípios-de-funcionamento)
+  - [15. Cronograma Geral do Projeto](#15-cronograma-geral-do-projeto)
+    - [15.1 Cronograma em Tabela](#151-cronograma-em-tabela)
+    - [15.2 Gráfico de Gantt](#152-gráfico-de-gantt)
+  - [16. Fluxo da Metodologia Simplificada](#16-fluxo-da-metodologia-simplificada)
+    - [16.1 Etapas do Fluxo](#161-etapas-do-fluxo)
+    - [16.2 Fluxo em Diagrama](#162-fluxo-em-diagrama)
+    - [16.3 Síntese Visual da Metodologia](#163-síntese-visual-da-metodologia)
+  - [17. Integração entre Cronograma e Metodologia](#17-integração-entre-cronograma-e-metodologia)
+  - [18. Avaliação](#18-avaliação)
+  - [19. Indicadores de Resultado](#19-indicadores-de-resultado)
+  - [20. Resultados Esperados](#20-resultados-esperados)
+  - [21. Observações sobre Propriedade, Uso e Responsabilidade](#21-observações-sobre-propriedade-uso-e-responsabilidade)
+  - [22. Síntese Final](#22-síntese-final)
+
+
+
 
 ## Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação
 
