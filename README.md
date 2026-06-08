@@ -29,6 +29,12 @@
   - [9. Documentação Mínima Obrigatória](#9-documentação-mínima-obrigatória)
   - [10. Tipos de Produtos Esperados](#10-tipos-de-produtos-esperados)
   - [11. Organização das Equipes](#11-organização-das-equipes)
+    - [11.1 Participação Discente e Carga Horária](#111-participação-discente-e-carga-horária)
+      - [Tabela de Referência de Carga Horária](#tabela-de-referência-de-carga-horária)
+    - [11.2 Capacidade de Atendimento Discente por Semestre](#112-capacidade-de-atendimento-discente-por-semestre)
+    - [11.3 Síntese da Capacidade de Atendimento](#113-síntese-da-capacidade-de-atendimento)
+    - [11.4 Representação Visual da Capacidade de Atendimento](#114-representação-visual-da-capacidade-de-atendimento)
+    - [11.5 Distribuição semestral](#115-distribuição-semestral)
   - [12. Responsabilidades dos Participantes](#12-responsabilidades-dos-participantes)
     - [12.1 Coordenador](#121-coordenador)
     - [12.2 Professores Orientadores](#122-professores-orientadores)
@@ -71,6 +77,7 @@
 | **Duração** | 24 meses |
 | **Local de execução** | Sinop e região norte de Mato Grosso |
 | **Público-alvo** | Empresas, produtores rurais, empreendedores, instituições públicas, organizações da sociedade civil, cooperativas, associações e comunidade regional |
+| **Vagas** | 2 por professor, nos primeiros 6 meses ofertaremos 3 vagas, em 2027 as demais vagas. |
 
 ---
 
@@ -265,7 +272,93 @@ Cada demanda poderá ser atendida por um aluno individualmente ou por equipe de 
 
 Cada aluno ou equipe terá um professor orientador vinculado. O coordenador do projeto acompanhará a distribuição das demandas, a organização geral, o registro institucional das atividades e a consolidação dos resultados.
 
----
+
+### 11.1 Participação Discente e Carga Horária
+
+A participação dos discentes no projeto ocorrerá de forma voluntária ou vinculada às atividades de extensão previstas no curso, respeitando as normas institucionais vigentes.
+
+Cada discente poderá dedicar até **12 horas semanais** às atividades do projeto, incluindo reuniões, levantamento de requisitos, desenvolvimento de soluções, documentação, testes, implantação e atendimento aos parceiros externos.
+
+Para fins de certificação e aproveitamento acadêmico, cada discente poderá contabilizar até **300 horas de participação** no projeto.
+
+Considerando a carga máxima semanal prevista, o limite de 300 horas poderá ser alcançado em aproximadamente seis meses de participação efetiva.
+
+#### Tabela de Referência de Carga Horária
+
+| Tipo de Participação                           | Carga Semanal | Duração Aproximada | Carga Acumulada |
+| ---------------------------------------------- | ------------: | -----------------: | --------------: |
+| Participação curta                             |   12 h/semana |              1 mês |            48 h |
+| Participação bimestral                         |   12 h/semana |            2 meses |            96 h |
+| Participação trimestral                        |   12 h/semana |            3 meses |           144 h |
+| Participação semestral                         |   12 h/semana |            6 meses |           288 h |
+| Participação para integralização das 300 horas |   12 h/semana | 6 meses e 1 semana |           300 h |
+
+O ingresso e a permanência dos discentes poderão ocorrer em ciclos semestrais, permitindo a entrada contínua de novos participantes ao longo dos 24 meses de execução do projeto. Após a conclusão das 300 horas, o discente poderá continuar colaborando voluntariamente com o projeto, observadas as necessidades das equipes e a disponibilidade dos orientadores.
+
+
+### 11.2 Capacidade de Atendimento Discente por Semestre
+
+Para garantir acompanhamento adequado, qualidade das entregas e equilíbrio da carga de orientação, cada professor orientador acompanhará **até 2 alunos por semestre**.
+
+No primeiro semestre de execução, o coordenador atuará prioritariamente na organização do projeto, divulgação, triagem das demandas, articulação com empresas, produtores rurais, instituições e parceiros externos. Nesse período, o atendimento direto aos alunos será realizado pelos três professores orientadores.
+
+A partir do segundo semestre, o coordenador também poderá atuar diretamente na orientação discente, ampliando a capacidade de atendimento para até quatro docentes orientadores por semestre.
+
+| Semestre | Período | Professores Orientando | Alunos por Professor | Capacidade de Alunos no Semestre | Observação |
+|---|---|---:|---:|---:|---|
+| 1º semestre | Agosto a dezembro de 2026 | 3 professores | 2 alunos | 6 alunos | Coordenador atua na organização, triagem e articulação externa |
+| 2º semestre | Janeiro a julho de 2027 | 4 professores | 2 alunos | 8 alunos | Coordenador também poderá orientar alunos |
+| 3º semestre | Agosto a dezembro de 2027 | 4 professores | 2 alunos | 8 alunos | Continuidade dos atendimentos e entrada de novas demandas |
+| 4º semestre | Janeiro a julho de 2028 | 4 professores | 2 alunos | 8 alunos | Finalização dos atendimentos e consolidação dos resultados |
+| **Total** | **Agosto/2026 a julho/2028** | — | — | **30 alunos** | Capacidade estimada ao longo dos 24 meses |
+
+### 11.3 Síntese da Capacidade de Atendimento
+
+| Critério | Definição adotada |
+|---|---|
+| Duração total do projeto | 24 meses |
+| Organização da participação discente | Ciclos semestrais |
+| Duração máxima da trilha discente | Até 1 semestre |
+| Carga horária máxima por aluno | Até 300 horas |
+| Carga semanal máxima por aluno | Até 12 horas semanais |
+| Número máximo de alunos por professor | Até 2 alunos por semestre |
+| Professores orientadores no 1º semestre | 3 professores |
+| Professores orientadores do 2º ao 4º semestre | Até 4 professores |
+| Capacidade total estimada | Até 30 alunos |
+
+
+
+### 11.4 Representação Visual da Capacidade de Atendimento
+
+```mermaid
+flowchart TD
+    A[Projeto ConectaTech Sinop<br/>Duração: 24 meses] --> B[Organização em 4 semestres]
+
+    B --> C1[1º semestre<br/>Ago/2026 a Dez/2026]
+    B --> C2[2º semestre<br/>Jan/2027 a Jul/2027]
+    B --> C3[3º semestre<br/>Ago/2027 a Dez/2027]
+    B --> C4[4º semestre<br/>Jan/2028 a Jul/2028]
+
+    C1 --> D1[3 professores orientadores<br/>2 alunos por professor<br/>Total: 6 alunos]
+    C2 --> D2[4 professores orientadores<br/>2 alunos por professor<br/>Total: 8 alunos]
+    C3 --> D3[4 professores orientadores<br/>2 alunos por professor<br/>Total: 8 alunos]
+    C4 --> D4[4 professores orientadores<br/>2 alunos por professor<br/>Total: 8 alunos]
+
+    D1 --> E[Total estimado em 2 anos<br/>30 alunos atendidos]
+    D2 --> E
+    D3 --> E
+    D4 --> E
+```
+
+### 11.5 Distribuição semestral
+
+```mermaid
+xychart-beta
+    title "Capacidade estimada de atendimento discente por semestre"
+    x-axis ["2026/2", "2027/1", "2027/2", "2028/1"]
+    y-axis "Alunos atendidos" 0 --> 10
+    bar [6, 8, 8, 8]
+```
 
 ## 12. Responsabilidades dos Participantes
 
