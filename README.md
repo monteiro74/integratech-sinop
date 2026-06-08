@@ -35,6 +35,10 @@
     - [11.3 Síntese da Capacidade de Atendimento](#113-síntese-da-capacidade-de-atendimento)
     - [11.4 Representação Visual da Capacidade de Atendimento](#114-representação-visual-da-capacidade-de-atendimento)
     - [11.5 Distribuição semestral](#115-distribuição-semestral)
+    - [11.6 Regra Operacional](#116-regra-operacional)
+    - [11.7 Jornada do Discente no Projeto](#117-jornada-do-discente-no-projeto)
+    - [11.7 Jornada Vertical do Discente no Projeto](#117-jornada-vertical-do-discente-no-projeto)
+    - [11.8 Trilha de Desenvolvimento do Discente](#118-trilha-de-desenvolvimento-do-discente)
   - [12. Responsabilidades dos Participantes](#12-responsabilidades-dos-participantes)
     - [12.1 Coordenador](#121-coordenador)
     - [12.2 Professores Orientadores](#122-professores-orientadores)
@@ -358,6 +362,73 @@ xychart-beta
     x-axis ["2026/2", "2027/1", "2027/2", "2028/1"]
     y-axis "Alunos atendidos" 0 --> 10
     bar [6, 8, 8, 8]
+```
+
+
+### 11.6 Regra Operacional
+
+A organização das vagas seguirá a seguinte regra geral:
+
+cada professor orientador acompanhará até 2 alunos por semestre;
+cada aluno poderá concluir sua trilha de participação em até 1 semestre;
+cada aluno poderá contabilizar até 300 horas no projeto;
+no primeiro semestre, o coordenador atuará prioritariamente na organização, divulgação, triagem das demandas e articulação externa;
+a partir do segundo semestre, o coordenador poderá também atuar como orientador;
+ao final de cada semestre, novas vagas poderão ser abertas para ingresso de outros alunos.
+
+Dessa forma, o projeto mantém uma estrutura simples, com acompanhamento próximo dos alunos, menor sobrecarga dos professores e capacidade estimada de atendimento de até 30 discentes ao longo dos 24 meses.
+
+
+### 11.7 Jornada do Discente no Projeto
+
+A participação do discente no projeto seguirá uma trilha simplificada, organizada em etapas práticas. A jornada inicia com o ingresso no projeto, passa pela escolha da demanda, planejamento, desenvolvimento, validação com o parceiro externo e termina com a entrega final e avaliação.
+
+### 11.7 Jornada Vertical do Discente no Projeto
+
+```mermaid
+flowchart TD
+    A[Ingresso no projeto] --> B[Vinculação ao orientador]
+    B --> C[Apresentação das regras]
+    C --> D[Escolha da demanda]
+    D --> E[Levantamento inicial]
+    E --> F[Plano enxuto de atendimento]
+    F --> G[Desenvolvimento da solução]
+    G --> H[Registro mensal simplificado]
+    H --> I[Validação com parceiro externo]
+    I --> J{Precisa de ajustes?}
+    J -- Sim --> G
+    J -- Não --> K[Entrega final]
+    K --> L[Avaliação simplificada]
+    L --> M[Encerramento da participação]
+```
+
+
+### 11.8 Trilha de Desenvolvimento do Discente
+
+```mermaid
+gitGraph
+    commit id: "Ingresso no projeto"
+    commit id: "Vinculação ao orientador"
+    branch demanda
+    checkout demanda
+    commit id: "Escolha da demanda"
+    commit id: "Levantamento do problema"
+    commit id: "Plano enxuto"
+    branch desenvolvimento
+    checkout desenvolvimento
+    commit id: "Protótipo inicial"
+    commit id: "Desenvolvimento da solução"
+    commit id: "Registro mensal"
+    branch validacao
+    checkout validacao
+    commit id: "Validação com parceiro"
+    commit id: "Ajustes"
+    checkout desenvolvimento
+    merge validacao
+    checkout main
+    merge desenvolvimento
+    commit id: "Entrega final"
+    commit id: "Avaliação e encerramento"
 ```
 
 ## 12. Responsabilidades dos Participantes
