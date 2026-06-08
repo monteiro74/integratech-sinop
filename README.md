@@ -44,7 +44,11 @@
     - [12.2 Professores Orientadores](#122-professores-orientadores)
     - [12.3 Discentes](#123-discentes)
     - [12.4 Empresas, Produtores e Instituições Atendidas](#124-empresas-produtores-e-instituições-atendidas)
-  - [13. Critérios para Aceitação de Demandas](#13-critérios-para-aceitação-de-demandas)
+  - [13. Critérios para Aceitação de Discentes e Demandas](#13-critérios-para-aceitação-de-discentes-e-demandas)
+    - [13.1 Requisitos Obrigatórios para Início da Atividade](#131-requisitos-obrigatórios-para-início-da-atividade)
+    - [13.2 Critérios para Aceitação da Demanda Externa](#132-critérios-para-aceitação-da-demanda-externa)
+    - [13.3. Modelo de carta de aceitação](#133-modelo-de-carta-de-aceitação)
+    - [Documentação Mínima Obrigatória](#documentação-mínima-obrigatória)
   - [14. Princípios de Funcionamento](#14-princípios-de-funcionamento)
   - [15. Cronograma Geral do Projeto](#15-cronograma-geral-do-projeto)
     - [15.1 Cronograma em Tabela](#151-cronograma-em-tabela)
@@ -482,20 +486,64 @@ Compete aos parceiros externos:
 
 ---
 
-## 13. Critérios para Aceitação de Demandas
+## 13. Critérios para Aceitação de Discentes e Demandas
 
-As demandas serão avaliadas conforme os seguintes critérios:
+Para ingresso e participação no projeto, o discente deverá atender aos seguintes critérios mínimos:
 
-- aderência aos objetivos do projeto;
-- viabilidade técnica;
-- disponibilidade de alunos e professores;
-- relevância social, econômica ou educacional;
-- potencial de aprendizagem para os acadêmicos;
-- possibilidade de entrega em prazo compatível;
-- clareza do problema apresentado;
-- ausência de conflito ético, jurídico ou comercial.
+| Critério | Descrição | Documento/Evidência |
+|---|---|---|
+| Vínculo acadêmico | Estar regularmente vinculado ao curso ou atividade acadêmica compatível com o projeto | Registro acadêmico ou inscrição no projeto |
+| Professor orientador definido | O aluno deverá ter um professor orientador responsável pelo acompanhamento das atividades | Registro de vinculação do orientador |
+| Demanda externa aceita | A empresa, produtor rural, instituição ou parceiro externo deverá formalizar aceite para participação no projeto | Carta de Aceite da empresa/instituição/parceiro |
+| Plano de trabalho compatível | A proposta de atividade deverá ser compatível com os objetivos do projeto e com a carga horária prevista | Plano Enxuto de Atendimento |
+| Viabilidade técnica | A demanda deverá ser compatível com o conhecimento dos alunos, disponibilidade dos orientadores e prazo de execução | Avaliação da coordenação e do professor orientador |
+| Conduta ética e sigilo | O aluno deverá respeitar informações, dados e documentos fornecidos pelo parceiro externo | Termo ou declaração de responsabilidade, quando necessário |
 
-O projeto poderá recusar demandas incompatíveis com sua finalidade acadêmica, excessivamente complexas, que exijam responsabilidade técnica incompatível com a equipe ou que envolvam riscos legais, financeiros ou de segurança.
+### 13.1 Requisitos Obrigatórios para Início da Atividade
+
+O discente somente poderá iniciar oficialmente suas atividades no projeto após cumprir os seguintes requisitos:
+
+1. possuir **professor orientador definido**;
+2. apresentar ou estar vinculado a uma **demanda externa aprovada**;
+3. entregar a **Carta de Aceite da empresa, produtor rural, instituição ou parceiro externo**;
+4. elaborar o **Plano Enxuto de Atendimento**, validado pelo professor orientador;
+5. ter sua participação registrada pela coordenação do projeto.
+
+A Carta de Aceite deverá indicar que o parceiro externo concorda em participar do projeto, fornecer as informações necessárias, acompanhar o desenvolvimento da solução e validar as entregas realizadas pelo discente ou equipe.
+
+### 13.2 Critérios para Aceitação da Demanda Externa
+
+As demandas apresentadas por empresas, produtores rurais, instituições ou parceiros externos serão avaliadas conforme os seguintes critérios:
+
+| Critério | Descrição |
+|---|---|
+| Aderência ao projeto | A demanda deve estar relacionada a soluções digitais, inovação, agrocomputação, dados, automação, sistemas ou apoio tecnológico |
+| Viabilidade de execução | A solução deve ser possível de ser desenvolvida no prazo de um semestre ou organizada em etapas compatíveis |
+| Disponibilidade de orientação | Deve haver professor orientador disponível para acompanhar o aluno ou equipe |
+| Aceite formal do parceiro | A empresa ou instituição deverá entregar Carta de Aceite formalizando a participação |
+| Relevância formativa | A demanda deve contribuir para a formação prática do discente |
+| Relevância social, econômica ou regional | A demanda deve ter potencial de benefício para a empresa, produtor, instituição ou comunidade |
+| Clareza do problema | O parceiro externo deve apresentar uma necessidade minimamente compreensível e viável de ser analisada |
+| Ausência de impedimentos éticos ou legais | A demanda não poderá envolver atividade ilegal, risco indevido, violação de dados ou responsabilidade técnica incompatível com o projeto |
+
+Demandas sem professor orientador definido, sem Carta de Aceite do parceiro externo ou incompatíveis com os objetivos do projeto não serão iniciadas formalmente.
+
+### 13.3. Modelo de carta de aceitação
+
+
+### Documentação Mínima Obrigatória
+
+| Documento | Finalidade |
+|---|---|
+| Formulário Simplificado de Demanda | Registrar a demanda inicial da empresa, produtor rural, instituição ou parceiro externo |
+| Carta de Aceite da Empresa/Instituição Parceira | Formalizar a concordância do parceiro externo em participar do projeto e acompanhar a execução da solução |
+| Registro de Vinculação do Professor Orientador | Indicar o professor responsável pelo acompanhamento do discente ou equipe |
+| Plano Enxuto de Atendimento | Definir problema, objetivo, escopo, tecnologias, equipe e cronograma |
+| Registro Mensal Simplificado | Acompanhar atividades realizadas, dificuldades e próximos passos |
+| Termo de Entrega e Avaliação Simplificada | Registrar a solução entregue e a avaliação do parceiro externo |
+
+
+
 
 ---
 
