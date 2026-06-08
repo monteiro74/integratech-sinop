@@ -662,7 +662,7 @@ flowchart TD
 ### 16.3 Síntese Visual da Metodologia
 
 ```mermaid
-flowchart LR
+flowchart 
     A[Demanda] --> B[Triagem]
     B --> C[Equipe]
     C --> D[Plano Enxuto]
