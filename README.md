@@ -314,10 +314,10 @@ A partir do segundo semestre, o coordenador também poderá atuar diretamente na
 
 | Semestre | Período | Professores Orientando | Alunos por Professor | Capacidade de Alunos no Semestre | Observação |
 |---|---|---:|---:|---:|---|
-| 1º semestre | Agosto a dezembro de 2026 | 3 professores | 2 alunos | 6 alunos | Coordenador atua na organização, triagem e articulação externa |
-| 2º semestre | Janeiro a julho de 2027 | 4 professores | 2 alunos | 8 alunos | Coordenador também poderá orientar alunos |
-| 3º semestre | Agosto a dezembro de 2027 | 4 professores | 2 alunos | 8 alunos | Continuidade dos atendimentos e entrada de novas demandas |
-| 4º semestre | Janeiro a julho de 2028 | 4 professores | 2 alunos | 8 alunos | Finalização dos atendimentos e consolidação dos resultados |
+| 1º semestre | Agosto a dezembro de 2026 | 3 professores | até 2 alunos | 6 alunos | Coordenador atua na organização, triagem e articulação externa |
+| 2º semestre | Janeiro a julho de 2027 | 4 professores | até 2 alunos | 8 alunos | Coordenador também poderá orientar alunos |
+| 3º semestre | Agosto a dezembro de 2027 | 4 professores | até 2 alunos | 8 alunos | Continuidade dos atendimentos e entrada de novas demandas |
+| 4º semestre | Janeiro a julho de 2028 | 4 professores | até 2 alunos | 8 alunos | Finalização dos atendimentos e consolidação dos resultados |
 | **Total** | **Agosto/2026 a julho/2028** | — | — | **30 alunos** | Capacidade estimada ao longo dos 24 meses |
 
 ### 11.3 Síntese da Capacidade de Atendimento
