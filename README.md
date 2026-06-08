@@ -1,2 +1,497 @@
-# integratech-sinop
-Integração entre a universidade e a comunida de sinop
+# Integratech-sinop
+
+# Projeto de Extensão Universitária
+
+# ConectaTech Sinop
+
+## Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação
+
+---
+
+## 1. Identificação do Projeto
+
+| Item | Informação |
+|---|---|
+| **Título do projeto** | ConectaTech Sinop: Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação |
+| **Nome curto** | ConectaTech Sinop |
+| **Modalidade** | Projeto de Extensão Universitária |
+| **Área temática** | Tecnologia, Inovação, Desenvolvimento Regional e Agrocomputação |
+| **Coordenador** | Prof. Dr. Emiliano Soares Monteiro |
+| **Professores orientadores** | Prof. Dr. Ivan Luiz Pedroso Filho; Prof. Dr. Benevid Félix da Silva; Prof. Msc. Francisco Sanches Banhos Filho |
+| **Período de execução** | Agosto de 2026 a julho de 2028 |
+| **Duração** | 24 meses |
+| **Local de execução** | Sinop e região norte de Mato Grosso |
+| **Público-alvo** | Empresas, produtores rurais, empreendedores, instituições públicas, organizações da sociedade civil, cooperativas, associações e comunidade regional |
+
+---
+
+## 2. Resumo
+
+O projeto **ConectaTech Sinop: Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação** tem como objetivo aproximar a universidade da comunidade regional por meio do atendimento tecnológico a empresas, produtores rurais, empreendedores, instituições e organizações sociais de Sinop e região.
+
+A proposta permitirá que acadêmicos, sob orientação docente, desenvolvam soluções digitais simples, úteis e viáveis para problemas reais da comunidade. As ações poderão envolver sistemas web, aplicativos, dashboards, automações, bancos de dados, análise de dados, protótipos, landing pages, ferramentas de gestão e soluções voltadas ao agronegócio.
+
+O projeto adota uma metodologia simplificada, com menos burocracia que projetos tradicionais, mantendo apenas documentos essenciais para registro, acompanhamento e avaliação das atividades. O foco será a entrega prática, a formação profissional dos alunos e o impacto regional.
+
+---
+
+## 3. Justificativa
+
+Sinop e região possuem forte dinamismo econômico, com destaque para comércio, serviços, educação, logística, setor público, agronegócio, agroindústrias, pequenas empresas e produtores rurais. Muitas dessas organizações enfrentam dificuldades relacionadas à digitalização de processos, controle de informações, gestão de dados, presença digital, automação, análise de indicadores e uso eficiente de tecnologias.
+
+Ao mesmo tempo, os acadêmicos dos cursos da área de tecnologia precisam de experiências práticas, com problemas reais, clientes reais e entregas concretas. O projeto cria uma ponte entre essas duas necessidades: de um lado, a comunidade regional recebe apoio tecnológico; de outro, os estudantes aplicam seus conhecimentos em situações reais de desenvolvimento, consultoria e inovação.
+
+A proposta se inspira em experiências anteriores de extensão, mantendo o foco no atendimento real à comunidade e na produção de soluções tecnológicas, mas reduzindo a quantidade de relatórios e formulários. Assim, o projeto busca ser mais ágil, menos burocrático e mais adequado à dinâmica de empresas, produtores e instituições locais.
+
+---
+
+## 4. Público-alvo
+
+O projeto atenderá:
+
+- empresas de Sinop e região;
+- micro e pequenas empresas;
+- empreendedores locais;
+- produtores rurais;
+- propriedades rurais;
+- cooperativas;
+- associações;
+- agroindústrias;
+- instituições públicas;
+- organizações da sociedade civil;
+- profissionais autônomos;
+- iniciativas educacionais e comunitárias.
+
+---
+
+## 5. Objetivo Geral
+
+Promover a interação entre universidade, empresas, produtores rurais, instituições e comunidade regional por meio do desenvolvimento de soluções digitais, protótipos, consultorias tecnológicas e produtos de software que contribuam para a inovação, a melhoria de processos e a formação prática dos acadêmicos.
+
+---
+
+## 6. Objetivos Específicos
+
+1. Atender demandas tecnológicas de empresas, produtores rurais, cooperativas, associações, empreendedores e instituições de Sinop e região.
+
+2. Desenvolver soluções digitais de baixa e média complexidade, como sistemas web, dashboards, aplicativos, protótipos, automações, bancos de dados e ferramentas de apoio à gestão.
+
+3. Apoiar demandas do agronegócio e da agrocomputação, incluindo controle de produção, gestão de propriedades, análise de dados, rastreabilidade, indicadores, automação de processos e ferramentas digitais para tomada de decisão.
+
+4. Proporcionar aos acadêmicos experiência prática em projetos reais, envolvendo levantamento de requisitos, planejamento, desenvolvimento, testes, implantação e documentação mínima.
+
+5. Estimular o uso de metodologias ágeis, ferramentas de versionamento, boas práticas de programação, banco de dados, segurança da informação e documentação objetiva.
+
+6. Fortalecer a relação entre a universidade e a comunidade regional, contribuindo para o desenvolvimento social, econômico e tecnológico.
+
+7. Criar um portfólio de soluções, casos atendidos, protótipos e produtos tecnológicos desenvolvidos pelos acadêmicos.
+
+8. Reduzir a burocracia do processo de extensão, mantendo apenas documentos essenciais para registro, acompanhamento e avaliação das atividades.
+
+---
+
+## 7. Linhas de Atuação
+
+### 7.1 Sistemas de Informação e Software
+
+Desenvolvimento de sistemas web, sistemas desktop, aplicativos, APIs, bancos de dados, módulos administrativos, cadastros, relatórios, controle de estoque, controle financeiro básico, CRM simples, sistemas de agendamento e ferramentas de gestão.
+
+### 7.2 Dados, Indicadores e Dashboards
+
+Criação de painéis gerenciais, análise de dados, relatórios automatizados, indicadores de desempenho, visualização de dados, integração com planilhas, bancos de dados e fontes públicas.
+
+### 7.3 Agrocomputação e Tecnologia para o Agro
+
+Soluções voltadas a produtores rurais, empresas agropecuárias, cooperativas, associações e agroindústrias, incluindo controle de produção, gestão de safras, controle de insumos, rastreabilidade, dashboards agropecuários, análise de dados agrícolas e automação de registros.
+
+### 7.4 Inovação, Prototipação e Consultoria Tecnológica
+
+Apoio a ideias inovadoras, protótipos de software, validação inicial de soluções, orientação técnica, escolha de tecnologias, estruturação de MVPs, melhoria de processos digitais e apoio à transformação digital de pequenos negócios.
+
+### 7.5 Conteúdo Técnico e Disseminação
+
+Produção eventual de materiais técnicos simples, vídeos curtos, tutoriais, manuais, guias de uso e publicações digitais sobre as soluções desenvolvidas, respeitando autorização das empresas e instituições atendidas.
+
+---
+
+## 8. Metodologia Simplificada
+
+A metodologia será baseada em ciclos curtos de atendimento, com foco na entrega prática e na documentação mínima. Cada demanda será organizada em quatro macroetapas: entrada e triagem, planejamento enxuto, desenvolvimento e acompanhamento, entrega e avaliação.
+
+### 8.1 Etapa 1 — Entrada da Demanda e Triagem
+
+A empresa, produtor, instituição ou interessado apresentará uma demanda tecnológica ao projeto. A equipe fará uma análise inicial para verificar se a solicitação é compatível com os objetivos, capacidade técnica e disponibilidade dos participantes.
+
+Nesta etapa, serão definidos:
+
+- nome da empresa ou instituição atendida;
+- responsável externo;
+- problema identificado;
+- aluno ou equipe responsável;
+- professor orientador;
+- tipo de solução esperada;
+- viabilidade inicial.
+
+**Documento obrigatório:** Formulário Simplificado de Demanda.
+
+### 8.2 Etapa 2 — Plano Enxuto de Atendimento
+
+Após a aprovação inicial, os alunos elaborarão um plano de atendimento simples, com no máximo duas páginas, contendo:
+
+- problema a ser resolvido;
+- objetivo da solução;
+- funcionalidades principais;
+- tecnologias previstas;
+- cronograma resumido;
+- responsabilidades dos alunos e da empresa;
+- critérios mínimos de conclusão.
+
+**Documento obrigatório:** Plano Enxuto de Atendimento.
+
+### 8.3 Etapa 3 — Desenvolvimento, Acompanhamento e Validação
+
+Os alunos desenvolverão a solução com acompanhamento do professor orientador. O acompanhamento poderá ocorrer por reuniões presenciais, encontros online, mensagens, registros em planilha, repositório de código ou outro meio definido pela equipe.
+
+A cada mês, o aluno ou equipe registrará brevemente:
+
+- atividades realizadas;
+- dificuldades encontradas;
+- próxima atividade planejada;
+- evidências do andamento, como telas, links, prints, repositórios, protótipos ou versões parciais.
+
+**Documento obrigatório:** Registro Mensal Simplificado.
+
+### 8.4 Etapa 4 — Entrega Final e Avaliação
+
+Ao final do atendimento, a equipe apresentará a solução ao responsável externo e ao professor orientador. A entrega poderá ser um sistema funcional, protótipo, dashboard, relatório técnico, banco de dados, script, aplicativo, automação, manual ou outro produto tecnológico compatível com a demanda.
+
+**Documento obrigatório:** Termo de Entrega e Avaliação Simplificada.
+
+---
+
+## 9. Documentação Mínima Obrigatória
+
+Para reduzir a burocracia, cada atendimento terá apenas quatro registros principais:
+
+| Documento | Finalidade |
+|---|---|
+| **Formulário Simplificado de Demanda** | Registrar a demanda inicial da empresa, produtor ou instituição |
+| **Plano Enxuto de Atendimento** | Definir problema, objetivo, escopo, tecnologias, equipe e cronograma |
+| **Registro Mensal Simplificado** | Acompanhar atividades realizadas, dificuldades e próximos passos |
+| **Termo de Entrega e Avaliação Simplificada** | Registrar a solução entregue e a avaliação do parceiro externo |
+
+Não serão exigidos relatórios extensos por fase, salvo quando a natureza da demanda, a orientação docente ou as normas institucionais exigirem documentação adicional.
+
+---
+
+## 10. Tipos de Produtos Esperados
+
+O projeto poderá gerar:
+
+- sistemas web;
+- sistemas desktop;
+- aplicativos;
+- protótipos navegáveis;
+- painéis de dados;
+- dashboards em Power BI, Streamlit, Metabase, Looker Studio ou ferramentas similares;
+- bancos de dados;
+- scripts de automação;
+- APIs;
+- planilhas automatizadas;
+- sistemas para gestão rural;
+- ferramentas para controle de estoque, vendas, clientes, produção ou processos internos;
+- sites institucionais;
+- landing pages;
+- relatórios técnicos;
+- manuais de uso;
+- vídeos curtos de demonstração;
+- repositórios de código;
+- documentação técnica simplificada.
+
+---
+
+## 11. Organização das Equipes
+
+Cada demanda poderá ser atendida por um aluno individualmente ou por equipe de dois a quatro alunos, conforme complexidade do problema.
+
+Cada aluno ou equipe terá um professor orientador vinculado. O coordenador do projeto acompanhará a distribuição das demandas, a organização geral, o registro institucional das atividades e a consolidação dos resultados.
+
+---
+
+## 12. Responsabilidades dos Participantes
+
+### 12.1 Coordenador
+
+Compete ao coordenador:
+
+- organizar o projeto;
+- articular parcerias;
+- divulgar a iniciativa;
+- acompanhar a entrada de demandas;
+- distribuir atendimentos entre professores e alunos;
+- consolidar os resultados;
+- elaborar relatórios institucionais;
+- zelar pela aderência do projeto aos objetivos da extensão universitária.
+
+### 12.2 Professores Orientadores
+
+Compete aos professores orientadores:
+
+- orientar os alunos nos atendimentos;
+- validar o escopo das soluções;
+- acompanhar o desenvolvimento técnico;
+- avaliar entregas parciais e finais;
+- apoiar decisões de tecnologia, arquitetura e metodologia;
+- registrar a conclusão dos atendimentos sob sua orientação.
+
+### 12.3 Discentes
+
+Compete aos discentes:
+
+- participar das reuniões com empresas e instituições;
+- levantar requisitos;
+- propor soluções;
+- desenvolver os produtos tecnológicos;
+- manter registros mínimos de acompanhamento;
+- apresentar entregas parciais e finais;
+- agir com ética, responsabilidade e sigilo em relação às informações recebidas.
+
+### 12.4 Empresas, Produtores e Instituições Atendidas
+
+Compete aos parceiros externos:
+
+- apresentar a demanda de forma clara;
+- indicar um responsável pelo acompanhamento;
+- fornecer informações necessárias ao desenvolvimento;
+- validar protótipos e entregas;
+- respeitar o caráter acadêmico e extensionista do projeto;
+- avaliar a solução ao final do atendimento.
+
+---
+
+## 13. Critérios para Aceitação de Demandas
+
+As demandas serão avaliadas conforme os seguintes critérios:
+
+- aderência aos objetivos do projeto;
+- viabilidade técnica;
+- disponibilidade de alunos e professores;
+- relevância social, econômica ou educacional;
+- potencial de aprendizagem para os acadêmicos;
+- possibilidade de entrega em prazo compatível;
+- clareza do problema apresentado;
+- ausência de conflito ético, jurídico ou comercial.
+
+O projeto poderá recusar demandas incompatíveis com sua finalidade acadêmica, excessivamente complexas, que exijam responsabilidade técnica incompatível com a equipe ou que envolvam riscos legais, financeiros ou de segurança.
+
+---
+
+## 14. Princípios de Funcionamento
+
+O projeto será orientado pelos seguintes princípios:
+
+- simplicidade;
+- baixo nível de burocracia;
+- foco em problemas reais;
+- entregas práticas;
+- responsabilidade acadêmica;
+- ética no uso de dados e informações;
+- respeito às limitações dos alunos;
+- colaboração entre universidade e comunidade;
+- uso preferencial de tecnologias acessíveis;
+- incentivo à inovação regional.
+
+---
+
+## 15. Cronograma Geral do Projeto
+
+O projeto terá duração de **24 meses**, com início em **agosto de 2026** e término em **julho de 2028**. As atividades serão organizadas em ciclos de atendimento, permitindo a entrada contínua de novas demandas e a finalização gradual das soluções desenvolvidas pelos alunos.
+
+### 15.1 Cronograma em Tabela
+
+| Etapa | Atividade | Período | Responsáveis | Produto/Resultado Esperado |
+|---|---|---|---|---|
+| 1 | Organização inicial do projeto | Agosto a setembro de 2026 | Coordenador e professores orientadores | Projeto estruturado, canais definidos e materiais de divulgação preparados |
+| 2 | Divulgação e prospecção de demandas | Agosto a outubro de 2026 | Coordenador, orientadores e alunos | Empresas, produtores e instituições interessados cadastrados |
+| 3 | Recebimento e triagem das demandas | Setembro a dezembro de 2026 | Coordenador e orientadores | Demandas avaliadas e classificadas por área, viabilidade e prioridade |
+| 4 | Formação das equipes de alunos | Outubro a dezembro de 2026 | Coordenador e orientadores | Alunos vinculados às demandas e professores orientadores definidos |
+| 5 | Elaboração do plano enxuto de atendimento | Outubro de 2026 a janeiro de 2027 | Alunos e orientadores | Plano com problema, objetivo, escopo, tecnologias e cronograma resumido |
+| 6 | Desenvolvimento das primeiras soluções | Janeiro a julho de 2027 | Alunos e orientadores | Protótipos, sistemas, dashboards, sites, APIs ou automações em desenvolvimento |
+| 7 | Validação parcial com parceiros externos | Março a julho de 2027 | Alunos, orientadores e parceiros externos | Ajustes nas soluções conforme feedback das empresas ou instituições |
+| 8 | Ampliação dos atendimentos | Agosto a dezembro de 2027 | Coordenador, orientadores e alunos | Entrada de novas demandas e continuidade dos projetos existentes |
+| 9 | Desenvolvimento e implantação das soluções | Agosto de 2027 a maio de 2028 | Alunos e orientadores | Soluções finalizadas, implantadas ou entregues como protótipos funcionais |
+| 10 | Produção de documentação simplificada | Janeiro a maio de 2028 | Alunos e orientadores | Manuais, vídeos curtos, guias de uso e registros técnicos simplificados |
+| 11 | Avaliação dos parceiros externos | Março a junho de 2028 | Coordenador, orientadores, alunos e parceiros | Termos de entrega e avaliações de satisfação preenchidos |
+| 12 | Consolidação dos resultados finais | Junho a julho de 2028 | Coordenador e orientadores | Relatório final institucional, indicadores consolidados e proposta de continuidade |
+
+### 15.2 Gráfico de Gantt
+
+```mermaid
+gantt
+    title Cronograma do Projeto ConectaTech Sinop - Agosto/2026 a Julho/2028
+    dateFormat  YYYY-MM-DD
+    axisFormat  %m/%Y
+
+    section Organização e Divulgação
+    Organização inicial do projeto           :a1, 2026-08-01, 2026-09-30
+    Divulgação e prospecção de demandas      :a2, 2026-08-15, 2026-10-31
+
+    section Entrada e Planejamento das Demandas
+    Recebimento e triagem das demandas       :b1, 2026-09-01, 2026-12-31
+    Formação das equipes de alunos           :b2, 2026-10-01, 2026-12-31
+    Plano enxuto de atendimento              :b3, 2026-10-15, 2027-01-31
+
+    section Desenvolvimento - Primeiro Ciclo
+    Desenvolvimento das primeiras soluções   :c1, 2027-01-01, 2027-07-31
+    Validação parcial com parceiros externos :c2, 2027-03-01, 2027-07-31
+
+    section Desenvolvimento - Segundo Ciclo
+    Ampliação dos atendimentos               :d1, 2027-08-01, 2027-12-31
+    Desenvolvimento e implantação            :d2, 2027-08-01, 2028-05-31
+
+    section Encerramento e Avaliação
+    Documentação simplificada                :e1, 2028-01-01, 2028-05-31
+    Avaliação dos parceiros externos         :e2, 2028-03-01, 2028-06-30
+    Consolidação dos resultados finais        :e3, 2028-06-01, 2028-07-31
+```
+
+---
+
+## 16. Fluxo da Metodologia Simplificada
+
+A metodologia do projeto será organizada em um fluxo simples, com entrada da demanda, triagem, planejamento enxuto, desenvolvimento, validação e entrega final. O objetivo é reduzir a burocracia, mantendo apenas os registros essenciais para acompanhamento e avaliação.
+
+### 16.1 Etapas do Fluxo
+
+| Ordem | Etapa | Descrição | Documento/Evidência |
+|---|---|---|---|
+| 1 | Entrada da demanda | Empresa, produtor, instituição ou empreendedor apresenta uma necessidade tecnológica | Formulário Simplificado de Demanda |
+| 2 | Triagem | Coordenação e orientadores analisam aderência, viabilidade e prioridade da demanda | Registro de triagem |
+| 3 | Definição da equipe | Alunos e professor orientador são vinculados à demanda aprovada | Registro da equipe |
+| 4 | Plano enxuto de atendimento | Equipe define problema, objetivo, escopo, tecnologias, cronograma e critérios de entrega | Plano Enxuto de Atendimento |
+| 5 | Desenvolvimento da solução | Alunos desenvolvem sistema, protótipo, dashboard, automação, site, aplicativo ou outro produto | Repositório, telas, protótipos ou versões parciais |
+| 6 | Acompanhamento mensal | Equipe registra atividades realizadas, dificuldades e próximos passos | Registro Mensal Simplificado |
+| 7 | Validação com parceiro externo | A solução é apresentada ao parceiro para testes, feedback e ajustes | Registro de validação |
+| 8 | Entrega final | Produto é entregue como solução funcional, protótipo validado ou artefato tecnológico | Termo de Entrega e Avaliação Simplificada |
+| 9 | Avaliação e encerramento | Professor, aluno e parceiro avaliam resultados, aprendizados e possibilidade de continuidade | Avaliação final simplificada |
+
+### 16.2 Fluxo em Diagrama
+
+```mermaid
+flowchart TD
+    A[Entrada da demanda<br/>Empresa, produtor ou instituição] --> B[Triagem da demanda<br/>Aderência, viabilidade e prioridade]
+    B --> C{Demanda aprovada?}
+
+    C -- Não --> D[Encaminhar, ajustar ou arquivar demanda]
+    C -- Sim --> E[Definição da equipe<br/>Aluno ou grupo + professor orientador]
+
+    E --> F[Plano enxuto de atendimento<br/>Problema, objetivo, escopo, tecnologias e cronograma]
+    F --> G[Desenvolvimento da solução<br/>Sistema, dashboard, site, app, automação ou protótipo]
+    G --> H[Acompanhamento mensal simplificado<br/>Atividades, dificuldades e próximos passos]
+    H --> I[Validação com parceiro externo<br/>Testes, feedback e ajustes]
+
+    I --> J{Precisa de ajustes?}
+    J -- Sim --> G
+    J -- Não --> K[Entrega final<br/>Produto funcional, protótipo ou artefato tecnológico]
+
+    K --> L[Avaliação simplificada<br/>Aluno, orientador e parceiro externo]
+    L --> M[Encerramento ou continuidade<br/>Novo ciclo, manutenção acadêmica ou nova demanda]
+```
+
+### 16.3 Síntese Visual da Metodologia
+
+```mermaid
+flowchart LR
+    A[Demanda] --> B[Triagem]
+    B --> C[Equipe]
+    C --> D[Plano Enxuto]
+    D --> E[Desenvolvimento]
+    E --> F[Validação]
+    F --> G[Entrega]
+    G --> H[Avaliação]
+```
+
+---
+
+## 17. Integração entre Cronograma e Metodologia
+
+O projeto será executado em ciclos. Isso significa que nem todas as demandas precisarão iniciar e terminar ao mesmo tempo. Algumas soluções poderão ser concluídas em poucos meses, enquanto outras poderão atravessar mais de um semestre, conforme sua complexidade.
+
+A lógica de funcionamento será:
+
+1. **Demanda simples:** atendimento em ciclo curto, com duração aproximada de 2 a 4 meses.
+2. **Demanda média:** atendimento em ciclo semestral, com duração aproximada de 4 a 6 meses.
+3. **Demanda complexa:** atendimento em ciclo estendido, podendo envolver mais de uma equipe ou mais de um semestre.
+
+Esse modelo permite que o projeto mantenha fluxo contínuo de entrada, desenvolvimento e entrega de soluções, evitando excesso de burocracia e favorecendo a participação prática dos alunos.
+
+---
+
+## 18. Avaliação
+
+A avaliação será contínua e simplificada, considerando:
+
+- número de demandas recebidas;
+- número de demandas atendidas;
+- número de alunos participantes;
+- número de empresas, produtores ou instituições atendidas;
+- produtos tecnológicos desenvolvidos;
+- soluções implantadas ou prototipadas;
+- avaliação dos parceiros externos;
+- participação dos alunos;
+- qualidade das entregas;
+- aprendizado técnico e profissional dos discentes;
+- impacto percebido na comunidade.
+
+A avaliação não terá como foco a produção de relatórios extensos, mas sim a comprovação objetiva das atividades realizadas e dos produtos entregues.
+
+---
+
+## 19. Indicadores de Resultado
+
+| Indicador | Forma de verificação |
+|---|---|
+| Demandas recebidas | Formulários de demanda |
+| Demandas atendidas | Registros de atendimento |
+| Empresas/produtores/instituições atendidas | Cadastro dos parceiros externos |
+| Alunos participantes | Lista de discentes vinculados |
+| Produtos tecnológicos desenvolvidos | Repositórios, sistemas, protótipos, dashboards ou documentos |
+| Soluções ligadas ao agro | Classificação da linha de atuação |
+| Satisfação dos parceiros | Avaliação simplificada final |
+| Soluções implantadas ou prototipadas | Termo de entrega |
+| Materiais técnicos produzidos | Manuais, vídeos, guias ou relatórios simplificados |
+
+---
+
+## 20. Resultados Esperados
+
+Espera-se que o projeto contribua para:
+
+- fortalecimento da relação entre universidade e comunidade regional;
+- melhoria de processos em empresas, produtores rurais e instituições atendidas;
+- desenvolvimento de soluções digitais úteis e acessíveis;
+- formação prática dos acadêmicos;
+- ampliação do portfólio técnico dos estudantes;
+- estímulo à inovação em Sinop e região;
+- apoio à transformação digital de pequenos negócios e iniciativas locais;
+- criação de soluções aplicadas ao agronegócio e à agrocomputação;
+- consolidação de uma metodologia extensionista mais simples, prática e menos burocrática.
+
+---
+
+## 21. Observações sobre Propriedade, Uso e Responsabilidade
+
+As soluções desenvolvidas no âmbito do projeto terão caráter acadêmico e extensionista. Quando necessário, poderão ser definidos termos específicos sobre uso, continuidade, manutenção, disponibilização de código-fonte, hospedagem, dados e responsabilidades.
+
+O projeto não substituirá contratos profissionais de desenvolvimento de software, suporte técnico permanente ou manutenção comercial. As entregas serão compatíveis com a capacidade acadêmica dos alunos, com a orientação docente disponível e com os objetivos da extensão universitária.
+
+Informações confidenciais, dados pessoais, dados empresariais e informações sensíveis deverão ser tratados com responsabilidade, respeitando boas práticas de segurança, privacidade e ética.
+
+---
+
+## 22. Síntese Final
+
+O **ConectaTech Sinop: Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação** propõe um modelo de extensão universitária simples, prático e menos burocrático, voltado ao atendimento de demandas reais da comunidade.
+
+A proposta preserva o melhor dos modelos anteriores: o atendimento tecnológico aplicado, o desenvolvimento de soluções reais e a formação prática dos acadêmicos. Ao mesmo tempo, reduz o excesso de relatórios, simplifica o acompanhamento e prioriza entregas úteis para empresas, produtores rurais, empreendedores e instituições de Sinop e região.
+
