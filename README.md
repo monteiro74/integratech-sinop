@@ -88,7 +88,7 @@
 | **Coordenador** | Prof. Dr. Emiliano Soares Monteiro |
 | **Vice-coordenador** | Prof. Dr. Benevid Félix da Silva |
 | **Professores orientadores** | 1. Prof. Dr. Ivan Luiz Pedroso Filho;<br> 2. Prof. Dr. Benevid Félix da Silva;<br> 3. Prof. Msc. Francisco Sanches Banhos Filho; <br> 4. Prof. Dr. Emiliano S. Monteiro. |
-| **Período de execução** | Agosto de 2026 a julho de 2028 |
+| **Período de execução** | 10 de agosto de 2026 a 9 de agosto de 2028 |
 | **Duração** | 24 meses |
 | **Local de execução** | Sinop e região norte de Mato Grosso |
 | **Público-alvo** | Empresas, produtores rurais, empreendedores, instituições públicas, organizações da sociedade civil, cooperativas, associações e comunidade regional |
@@ -321,11 +321,11 @@ A partir do segundo semestre, o coordenador também poderá atuar diretamente na
 
 | Semestre | Período | Professores Orientando | Alunos por Professor | Capacidade de Alunos no Semestre | Observação |
 |---|---|---:|---:|---:|---|
-| 1º semestre | Agosto a dezembro de 2026 | 3 professores | até 5 alunos | até 15 alunos | Orientação exclusiva de Ivan, Benevid e Francisco; coordenador atua na organização, triagem e articulação externa |
+| 1º semestre | 10 de agosto a dezembro de 2026 | 3 professores | até 5 alunos | até 15 alunos | Orientação exclusiva de Ivan, Benevid e Francisco; coordenador atua na organização, triagem e articulação externa |
 | 2º semestre | Janeiro a julho de 2027 | 4 professores | até 5 alunos | até 20 alunos | Coordenador também poderá orientar alunos |
 | 3º semestre | Agosto a dezembro de 2027 | 4 professores | até 5 alunos | até 20 alunos | Continuidade dos atendimentos e entrada de novas demandas |
-| 4º semestre | Janeiro a julho de 2028 | 4 professores | até 5 alunos | até 20 alunos | Finalização dos atendimentos e consolidação dos resultados |
-| **Total** | **Agosto/2026 a julho/2028** | — | — | **até 75 alunos** | Capacidade estimada ao longo dos 24 meses |
+| 4º semestre | Janeiro a 9 de agosto de 2028 | 4 professores | até 5 alunos | até 20 alunos | Finalização dos atendimentos e consolidação dos resultados |
+| **Total** | **10/08/2026 a 09/08/2028** | — | — | **até 75 alunos** | Capacidade estimada ao longo dos 24 meses |
 
 ### 11.3 Síntese da Capacidade de Atendimento
 
@@ -349,10 +349,10 @@ A partir do segundo semestre, o coordenador também poderá atuar diretamente na
 flowchart TD
     A[Projeto Integratech<br/>Duração: 24 meses] --> B[Organização em 4 semestres]
 
-    B --> C1[1º semestre<br/>Ago/2026 a Dez/2026]
+    B --> C1[1º semestre<br/>10/Ago/2026 a Dez/2026]
     B --> C2[2º semestre<br/>Jan/2027 a Jul/2027]
     B --> C3[3º semestre<br/>Ago/2027 a Dez/2027]
-    B --> C4[4º semestre<br/>Jan/2028 a Jul/2028]
+    B --> C4[4º semestre<br/>Jan/2028 a 09/Ago/2028]
 
     C1 --> D1[3 professores orientadores<br/>5 alunos por professor<br/>Total: 15 alunos]
     C2 --> D2[4 professores orientadores<br/>5 alunos por professor<br/>Total: 20 alunos]
@@ -647,15 +647,15 @@ O projeto será orientado pelos seguintes princípios:
 
 ## 15. Cronograma Geral do Projeto
 
-O projeto terá duração de **24 meses**, com início em **agosto de 2026** e término em **julho de 2028**. As atividades serão organizadas em ciclos de atendimento, permitindo a entrada contínua de novas demandas e a finalização gradual das soluções desenvolvidas pelos alunos.
+O projeto terá duração de **24 meses**, com início em **10 de agosto de 2026** e término em **9 de agosto de 2028**. As atividades serão organizadas em ciclos de atendimento, permitindo a entrada contínua de novas demandas e a finalização gradual das soluções desenvolvidas pelos alunos.
 
 ### 15.1 Cronograma em Tabela
 
 | Etapa | Atividade | Período | Responsáveis | Produto/Resultado Esperado |
 |---|---|---|---|---|
-| 1 | Organização inicial do projeto | Agosto a setembro de 2026 | Coordenador e professores orientadores | Projeto estruturado, canais definidos e materiais de divulgação preparados |
+| 1 | Organização inicial do projeto | 10 de agosto a setembro de 2026 | Coordenador e professores orientadores | Projeto estruturado, canais definidos e materiais de divulgação preparados |
 | 2 | Ambientação inicial dos alunos e padronização de ferramentas | Setembro a outubro de 2026 | Coordenador e orientadores | Alunos alinhados às regras do projeto, ferramentas definidas e fluxo de trabalho organizado |
-| 3 | Divulgação e prospecção de demandas | Agosto a outubro de 2026 | Coordenador, orientadores e alunos | Empresas, produtores e instituições interessados cadastrados |
+| 3 | Divulgação e prospecção de demandas | 10 de agosto a outubro de 2026 | Coordenador, orientadores e alunos | Empresas, produtores e instituições interessados cadastrados |
 | 4 | Recebimento, triagem e priorização das demandas | Setembro a novembro de 2026 | Coordenador e orientadores | Demandas avaliadas e classificadas por área, viabilidade, prioridade e aderência ao limite de 300 horas |
 | 5 | Formação das equipes e elaboração do plano enxuto de atendimento | Outubro a novembro de 2026 | Alunos e orientadores | Alunos vinculados às demandas e plano com problema, objetivo, escopo, tecnologias e cronograma resumido |
 | 6 | Desenvolvimento das primeiras soluções | Novembro de 2026 a julho de 2027 | Alunos e orientadores | Protótipos, sistemas, dashboards, sites, APIs ou automações em desenvolvimento |
@@ -664,20 +664,20 @@ O projeto terá duração de **24 meses**, com início em **agosto de 2026** e t
 | 9 | Desenvolvimento e implantação das soluções | Agosto de 2027 a maio de 2028 | Alunos e orientadores | Soluções finalizadas, implantadas ou entregues como protótipos funcionais |
 | 10 | Produção de documentação simplificada | Janeiro a maio de 2028 | Alunos e orientadores | Manuais, vídeos curtos, guias de uso e registros técnicos simplificados |
 | 11 | Avaliação dos parceiros externos | Março a junho de 2028 | Coordenador, orientadores, alunos e parceiros | Termos de entrega e avaliações de satisfação preenchidos |
-| 12 | Consolidação dos resultados finais | Junho a julho de 2028 | Coordenador e orientadores | Relatório final institucional, indicadores consolidados e proposta de continuidade |
+| 12 | Consolidação dos resultados finais | Junho a 9 de agosto de 2028 | Coordenador e orientadores | Relatório final institucional, indicadores consolidados e proposta de continuidade |
 
 ### 15.2 Gráfico de Gantt
 
 ```mermaid
 gantt
-    title Cronograma do Projeto Integratech - Agosto/2026 a Julho/2028
+    title Cronograma do Projeto Integratech - 10/08/2026 a 09/08/2028
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
 
     section Organização e Divulgação
-    Organização inicial do projeto           :a1, 2026-08-01, 2026-09-30
+    Organização inicial do projeto           :a1, 2026-08-10, 2026-09-30
     Ambientação e padronização de ferramentas :a2, 2026-09-01, 2026-10-31
-    Divulgação e prospecção de demandas      :a3, 2026-08-15, 2026-10-31
+    Divulgação e prospecção de demandas      :a3, 2026-08-10, 2026-10-31
 
     section Entrada e Planejamento das Demandas
     Recebimento, triagem e priorização       :b1, 2026-09-01, 2026-11-30
@@ -695,7 +695,7 @@ gantt
     section Encerramento e Avaliação
     Documentação simplificada                :e1, 2028-01-01, 2028-05-31
     Avaliação dos parceiros externos         :e2, 2028-03-01, 2028-06-30
-    Consolidação dos resultados finais        :e3, 2028-06-01, 2028-07-31
+    Consolidação dos resultados finais        :e3, 2028-06-01, 2028-08-09
 ```
 
 ---
