@@ -9,6 +9,7 @@
   - [1. Identificação do Projeto](#1-identificação-do-projeto)
   - [2. Resumo](#2-resumo)
   - [3. Justificativa](#3-justificativa)
+    - [3.1 Fundamentação Teórica](#31-fundamentação-teórica)
   - [4. Público-alvo](#4-público-alvo)
   - [5. Objetivo Geral](#5-objetivo-geral)
   - [6. Objetivos Específicos](#6-objetivos-específicos)
@@ -87,16 +88,16 @@
 | **Área temática** | Tecnologia, Inovação, Desenvolvimento Regional e Agrocomputação |
 | **Coordenador** | Prof. Dr. Emiliano Soares Monteiro |
 | **Vice-coordenador** | Prof. Dr. Benevid Félix da Silva |
-| **Professores orientadores** | 1. Prof. Dr. Ivan Luiz Pedroso Filho;<br> 2. Prof. Dr. Benevid Félix da Silva;<br> 3. Prof. Msc. Francisco Sanches Banhos Filho; <br> 4. Prof. Dr. Emiliano S. Monteiro. |
-| **Período de execução** | 10 de agosto de 2026 a 9 de agosto de 2028 |
+| **Professores orientadores** | 1. Prof. Dr. Ivan Luiz Pedroso Filho;<br> 2. Prof. Dr. Benevid Félix da Silva;<br> 3. Prof. Msc. Francisco Sanches Banhos Filho;<br> 4. Prof. Dr. Emiliano S. Monteiro (orientação discente a partir de janeiro de 2027). |
+| **Período de execução** | 10 de agosto de 2026 a 9 de agosto de 2027, com possibilidade de prorrogação até 9 de agosto de 2028 |
 | **Mês previsto de início** | Agosto de 2026 |
-| **Mês previsto de fim** | Agosto de 2028 |
-| **Duração** | 24 meses |
+| **Mês previsto de fim** | Agosto de 2027, com possível prorrogação até agosto de 2028 |
+| **Duração** | 12 meses, com possível prorrogação por mais 12 meses |
 | **Local de execução** | Sinop e região norte de Mato Grosso |
 | **Público-alvo** | Empresas, produtores rurais, empreendedores, instituições públicas, organizações da sociedade civil, cooperativas, associações e comunidade regional |
-| **Vagas** | Até 5 alunos por professor orientador por semestre, conforme disponibilidade de orientação e compatibilidade das demandas. |
-| **Total estimado de alunos atendidos** | Até 75 alunos ao longo dos 24 meses |
-| **Total estimado de empresas atendidas** | Até 75 empresas/parceiros externos ao longo dos 24 meses |
+| **Vagas** | Até 5 alunos por professor orientador por semestre, respeitado o teto global de 40 alunos e 40 empresas/parceiros externos. |
+| **Total estimado de alunos atendidos** | Até 35 alunos no período inicial de 12 meses e até 40 alunos com eventual prorrogação |
+| **Total estimado de empresas atendidas** | Até 35 empresas/parceiros externos no período inicial de 12 meses e até 40 com eventual prorrogação |
 
 ---
 
@@ -117,6 +118,12 @@ Sinop e região possuem forte dinamismo econômico, com destaque para comércio,
 Ao mesmo tempo, os acadêmicos dos cursos da área de tecnologia precisam de experiências práticas, com problemas reais, clientes reais e entregas concretas. O projeto cria uma ponte entre essas duas necessidades: de um lado, a comunidade regional recebe apoio tecnológico; de outro, os estudantes aplicam seus conhecimentos em situações reais de desenvolvimento, consultoria e inovação.
 
 A proposta se inspira em experiências anteriores de extensão, mantendo o foco no atendimento real à comunidade e na produção de soluções tecnológicas, mas reduzindo a quantidade de relatórios e formulários. Assim, o projeto busca ser mais ágil, menos burocrático e mais adequado à dinâmica de empresas, produtores e instituições locais.
+
+### 3.1 Fundamentação Teórica
+
+A fundamentação teórica deste projeto apoia-se na compreensão de que sistemas de informação e bancos de dados são elementos centrais para a organização, o armazenamento, a recuperação e a transformação de dados em informação útil para a tomada de decisão. Autores clássicos da área destacam que a modelagem correta dos dados, a definição consistente de requisitos e a estruturação adequada dos sistemas são condições essenciais para produzir soluções confiáveis, seguras e alinhadas às necessidades institucionais e organizacionais (ELMASRI; NAVATHE, 2005; SILBERSCHATZ; KORTH; SUDARSHAN, 2012; DATE, 2004; SETZER; SILVA, 2005). Nessa perspectiva, o projeto se alinha ao objetivo de atender demandas tecnológicas reais da comunidade por meio do desenvolvimento de sistemas, dashboards, automações, bancos de dados e ferramentas digitais de baixa e média complexidade, com foco na melhoria de processos, no controle de informações e na geração de indicadores úteis para empresas, produtores e instituições.
+
+Além do domínio técnico, a literatura também sustenta que o desenvolvimento de sistemas de informação exige articulação entre análise do problema, projeto da solução, adequação tecnológica e visão aplicada do contexto organizacional, especialmente quando se pretende produzir soluções viáveis e de uso prático (MEDEIROS, 2006; MONTEIRO, 2004). Assim, a proposta extensionista do Integratech encontra base teórica no entendimento de que a formação discente se fortalece quando o estudante participa de situações reais de levantamento de requisitos, modelagem, implementação, testes, validação e entrega. Essa abordagem dialoga diretamente com os objetivos do projeto de proporcionar experiência prática aos acadêmicos, estimular boas práticas de desenvolvimento, apoiar a inovação regional e consolidar um portfólio de soluções tecnológicas com impacto social, econômico e institucional.
 
 ---
 
@@ -191,7 +198,7 @@ Produção eventual de materiais técnicos simples, vídeos curtos, tutoriais, m
 
 ## 8. Metodologia Simplificada
 
-A metodologia será baseada em ciclos curtos de atendimento, com foco na entrega prática e na documentação mínima. Cada demanda será organizada em quatro macroetapas: entrada e triagem, planejamento enxuto, desenvolvimento e acompanhamento, entrega e avaliação.
+A metodologia será baseada em ciclos curtos de atendimento, com foco na entrega prática e na documentação mínima. Cada demanda será organizada em quatro macroetapas: entrada e triagem, planejamento enxuto, desenvolvimento e acompanhamento, entrega e avaliação. Poderão ser utilizados métodos ágeis como o Scrum.
 
 ### 8.1 Etapa 1 — Entrada da Demanda e Triagem
 
@@ -312,38 +319,49 @@ Considerando a carga máxima semanal prevista, o limite de 300 horas poderá ser
 | Participação semestral                         |   12 h/semana |            6 meses |           288 h |
 | Participação para integralização das 300 horas |   12 h/semana |       25 semanas |           300 h |
 
-O ingresso e a permanência dos discentes poderão ocorrer em ciclos semestrais, permitindo a entrada contínua de novos participantes ao longo dos 24 meses de execução do projeto. Após a conclusão das 300 horas, o discente poderá continuar colaborando voluntariamente com o projeto, observadas as necessidades das equipes e a disponibilidade dos orientadores.
+O ingresso e a permanência dos discentes poderão ocorrer em ciclos semestrais, permitindo a entrada contínua de novos participantes ao longo dos 12 meses de execução inicial do projeto. Em caso de prorrogação formal, novos ingressos e continuidades poderão ser autorizados dentro do teto global previsto. Após a conclusão das 300 horas, o discente poderá continuar colaborando voluntariamente com o projeto, observadas as necessidades das equipes e a disponibilidade dos orientadores.
 
 
 ### 11.2 Capacidade de Atendimento Discente por Semestre
 
 Para garantir acompanhamento adequado, qualidade das entregas e equilíbrio da carga de orientação, cada professor orientador acompanhará **até 5 alunos por semestre**.
 
-No primeiro semestre de execução, o coordenador atuará prioritariamente na organização do projeto, divulgação, triagem das demandas, articulação com empresas, produtores rurais, instituições e parceiros externos. Nesse período, o atendimento direto aos alunos será realizado exclusivamente pelos professores **Prof. Dr. Ivan Luiz Pedroso Filho**, **Prof. Dr. Benevid Félix da Silva** e **Prof. Msc. Francisco Sanches Banhos Filho**.
+No segundo semestre letivo de 2026, o coordenador **Prof. Dr. Emiliano S. Monteiro** atuará prioritariamente na organização do projeto, divulgação, triagem das demandas e articulação com empresas, produtores rurais, instituições e parceiros externos. Nesse período, o atendimento direto aos alunos será realizado exclusivamente pelos professores **Prof. Dr. Ivan Luiz Pedroso Filho**, **Prof. Dr. Benevid Félix da Silva** e **Prof. Msc. Francisco Sanches Banhos Filho**.
 
-A partir do segundo semestre, o coordenador também poderá atuar diretamente na orientação discente, ampliando a capacidade de atendimento para até quatro docentes orientadores por semestre.
+A partir de janeiro de 2027, o coordenador também poderá atuar diretamente na orientação discente. Considerando a duração inicial de 12 meses, a capacidade planejada é de **até 35 alunos e 35 empresas**. Se houver prorrogação por mais 12 meses, serão abertas **no máximo 5 novas vagas**, totalizando **até 40 alunos e 40 empresas** em todo o projeto.
 
-| Semestre | Período | Professores Orientando | Alunos por Professor | Capacidade de Alunos no Semestre | Observação |
+| Ciclo | Período | Professores Orientando | Alunos por Professor | Capacidade de Alunos/Empresas no Ciclo | Observação |
 |---|---|---:|---:|---:|---|
-| 1º semestre | 10 de agosto a dezembro de 2026 | 3 professores | até 5 alunos | até 15 alunos | Orientação exclusiva de Ivan, Benevid e Francisco; coordenador atua na organização, triagem e articulação externa |
-| 2º semestre | Janeiro a julho de 2027 | 4 professores | até 5 alunos | até 20 alunos | Coordenador também poderá orientar alunos |
-| 3º semestre | Agosto a dezembro de 2027 | 4 professores | até 5 alunos | até 20 alunos | Continuidade dos atendimentos e entrada de novas demandas |
-| 4º semestre | Janeiro a 9 de agosto de 2028 | 4 professores | até 5 alunos | até 20 alunos | Finalização dos atendimentos e consolidação dos resultados |
-| **Total** | **10/08/2026 a 09/08/2028** | — | — | **até 75 alunos** | Capacidade estimada ao longo dos 24 meses |
+| 2026/2 | 10 de agosto a dezembro de 2026 | 3 professores | até 5 alunos | até 15 alunos/empresas | Orientação exclusiva de Ivan, Benevid e Francisco; Emiliano não orienta nesse ciclo |
+| 2027/1 | Janeiro a 9 de agosto de 2027 | 4 professores | até 5 alunos | até 20 alunos/empresas | Entrada do Prof. Dr. Emiliano S. Monteiro na orientação discente |
+| Prorrogação eventual | 10 de agosto de 2027 a 9 de agosto de 2028 | distribuição controlada | conforme disponibilidade | até 5 novos alunos/empresas | Prorrogação voltada à continuidade e, no máximo, 5 novos atendimentos |
+| **Total** | **10/08/2026 a 09/08/2028** | — | — | **até 40 alunos/empresas** | Teto global do projeto, já considerada eventual prorrogação |
+
+| Professor orientador | 2026/2 | 2027/1 | Prorrogação eventual | Total máximo planejado |
+|---|---:|---:|---:|---:|
+| Prof. Dr. Ivan Luiz Pedroso Filho | 5 | 5 | 0 | 10 |
+| Prof. Dr. Benevid Félix da Silva | 5 | 5 | 0 | 10 |
+| Prof. Msc. Francisco Sanches Banhos Filho | 5 | 5 | 0 | 10 |
+| Prof. Dr. Emiliano S. Monteiro | 0 | 5 | 5 | 10 |
+| **Total** | **15** | **20** | **5** | **40** |
+
+Como cada aluno ficará vinculado a uma única demanda externa, o mesmo teto se aplica a empresas, produtores, instituições ou parceiros atendidos: **até 40** ao longo de toda a vigência do projeto, já considerada eventual prorrogação.
 
 ### 11.3 Síntese da Capacidade de Atendimento
 
 | Critério | Definição adotada |
 |---|---|
-| Duração total do projeto | 24 meses |
+| Duração inicial do projeto | 12 meses |
+| Prorrogação | Até 12 meses adicionais, mediante aprovação institucional |
 | Organização da participação discente | Ciclos semestrais |
 | Duração máxima da trilha discente | Até 25 semanas de participação efetiva, podendo atravessar 2 semestres |
 | Carga horária máxima por aluno | Até 300 horas |
 | Carga semanal máxima por aluno | Até 12 horas semanais |
 | Número máximo de alunos por professor | Até 5 alunos por semestre |
-| Professores orientadores no 1º semestre | 3 professores |
-| Professores orientadores do 2º ao 4º semestre | Até 4 professores |
-| Capacidade total estimada | Até 75 alunos |
+| Professores orientadores em 2026/2 | 3 professores |
+| Professores orientadores em 2027/1 | 4 professores |
+| Capacidade no período inicial | Até 35 alunos e 35 empresas |
+| Capacidade total com eventual prorrogação | Até 40 alunos e 40 empresas |
 
 
 
@@ -351,22 +369,19 @@ A partir do segundo semestre, o coordenador também poderá atuar diretamente na
 
 ```mermaid
 flowchart TD
-    A[Projeto Integratech<br/>Duração: 24 meses] --> B[Organização em 4 semestres]
+    A[Projeto Integratech<br/>Duração inicial: 12 meses] --> B[Organização em 2 ciclos + prorrogação opcional]
 
-    B --> C1[1º semestre<br/>10/Ago/2026 a Dez/2026]
-    B --> C2[2º semestre<br/>Jan/2027 a Jul/2027]
-    B --> C3[3º semestre<br/>Ago/2027 a Dez/2027]
-    B --> C4[4º semestre<br/>Jan/2028 a 09/Ago/2028]
+    B --> C1[2026/2<br/>10/Ago/2026 a Dez/2026]
+    B --> C2[2027/1<br/>Jan/2027 a 09/Ago/2027]
+    B --> C3[Prorrogação eventual<br/>10/Ago/2027 a 09/Ago/2028]
 
     C1 --> D1[3 professores orientadores<br/>5 alunos por professor<br/>Total: 15 alunos]
     C2 --> D2[4 professores orientadores<br/>5 alunos por professor<br/>Total: 20 alunos]
-    C3 --> D3[4 professores orientadores<br/>5 alunos por professor<br/>Total: 20 alunos]
-    C4 --> D4[4 professores orientadores<br/>5 alunos por professor<br/>Total: 20 alunos]
+    C3 --> D3[Até 5 novas vagas<br/>prioridade para compensação da não orientação em 2026/2]
 
-    D1 --> E[Total estimado em 2 anos<br/>75 alunos atendidos]
+    D1 --> E[Total máximo do projeto<br/>40 alunos e 40 empresas]
     D2 --> E
     D3 --> E
-    D4 --> E
 ```
 
 ### 11.5 Distribuição semestral
@@ -374,9 +389,9 @@ flowchart TD
 ```mermaid
 xychart-beta
     title "Capacidade estimada de atendimento discente por semestre"
-    x-axis ["2026/2", "2027/1", "2027/2", "2028/1"]
+    x-axis ["2026/2", "2027/1", "Prorrogação"]
     y-axis "Alunos atendidos" 0 --> 25
-    bar [15, 20, 20, 20]
+    bar [15, 20, 5]
 ```
 
 
@@ -387,11 +402,13 @@ A organização das vagas seguirá a seguinte regra geral:
 cada professor orientador acompanhará até 5 alunos por semestre;
 cada aluno poderá concluir sua trilha de participação em até 25 semanas de participação efetiva, podendo iniciar em um semestre e concluir no semestre seguinte;
 cada aluno poderá contabilizar até 300 horas no projeto;
-no primeiro semestre, o coordenador atuará prioritariamente na organização, divulgação, triagem das demandas e articulação externa;
-a partir do segundo semestre, o coordenador poderá também atuar como orientador;
-ao final de cada semestre, novas vagas poderão ser abertas para ingresso de outros alunos.
+cada aluno será vinculado, preferencialmente, a uma única empresa, produtor, instituição ou parceiro externo, mantendo equivalência entre vagas discentes e atendimentos externos;
+no ciclo 2026/2, o Prof. Dr. Emiliano S. Monteiro não orientará alunos;
+no ciclo 2027/1, os quatro docentes poderão orientar, totalizando até 35 atendimentos no período inicial de 12 meses;
+caso a prorrogação seja aprovada, poderão ser abertas no máximo 5 novas vagas, prioritariamente para compensar a não orientação de Emiliano em 2026/2 e equalizar o teto de até 10 atendimentos por docente ao longo de toda a vigência;
+o projeto não poderá ultrapassar o teto global de 40 alunos e 40 empresas/parceiros externos.
 
-Dessa forma, o projeto mantém uma estrutura simples, com distribuição semestral das vagas e capacidade estimada de atendimento de até 75 discentes ao longo dos 24 meses.
+Dessa forma, o projeto mantém uma estrutura simples, com distribuição semestral das vagas e capacidade estimada de atendimento de até 40 discentes e 40 parceiros externos, já considerada eventual prorrogação.
 
 
 ### 11.7 Jornada do Discente no Projeto
@@ -651,7 +668,7 @@ O projeto será orientado pelos seguintes princípios:
 
 ## 15. Cronograma Geral do Projeto
 
-O projeto terá duração de **24 meses**, com início em **10 de agosto de 2026** e término em **9 de agosto de 2028**. As atividades serão organizadas em ciclos de atendimento, permitindo a entrada contínua de novas demandas e a finalização gradual das soluções desenvolvidas pelos alunos.
+O projeto terá duração inicial de **12 meses**, com início em **10 de agosto de 2026** e término em **9 de agosto de 2027**, podendo ser prorrogado até **9 de agosto de 2028**. As atividades serão organizadas em ciclos de atendimento, permitindo a entrada contínua de novas demandas no período inicial e, se houver prorrogação, a continuidade dos trabalhos em andamento e a abertura de até 5 novas demandas.
 
 ### 15.1 Cronograma em Tabela
 
@@ -660,21 +677,18 @@ O projeto terá duração de **24 meses**, com início em **10 de agosto de 2026
 | 1 | Organização inicial do projeto | 10 de agosto a setembro de 2026 | Coordenador e professores orientadores | Projeto estruturado, canais definidos e materiais de divulgação preparados |
 | 2 | Ambientação inicial dos alunos e padronização de ferramentas | Setembro a outubro de 2026 | Coordenador e orientadores | Alunos alinhados às regras do projeto, ferramentas definidas e fluxo de trabalho organizado |
 | 3 | Divulgação e prospecção de demandas | 10 de agosto a outubro de 2026 | Coordenador, orientadores e alunos | Empresas, produtores e instituições interessados cadastrados |
-| 4 | Recebimento, triagem e priorização das demandas | Setembro a novembro de 2026 | Coordenador e orientadores | Demandas avaliadas e classificadas por área, viabilidade, prioridade e aderência ao limite de 300 horas |
+| 4 | Recebimento, triagem e priorização das demandas | Setembro a novembro de 2026 | Coordenador e orientadores | Demandas avaliadas e classificadas por área, viabilidade, prioridade e aderência ao teto de 40 alunos/40 empresas |
 | 5 | Formação das equipes e elaboração do plano enxuto de atendimento | Outubro a novembro de 2026 | Alunos e orientadores | Alunos vinculados às demandas e plano com problema, objetivo, escopo, tecnologias e cronograma resumido |
-| 6 | Desenvolvimento das primeiras soluções | Novembro de 2026 a julho de 2027 | Alunos e orientadores | Protótipos, sistemas, dashboards, sites, APIs ou automações em desenvolvimento |
-| 7 | Validação parcial com parceiros externos | Janeiro a julho de 2027 | Alunos, orientadores e parceiros externos | Ajustes nas soluções conforme feedback das empresas ou instituições |
-| 8 | Ampliação dos atendimentos | Agosto a dezembro de 2027 | Coordenador, orientadores e alunos | Entrada de novas demandas e continuidade dos projetos existentes |
-| 9 | Desenvolvimento e implantação das soluções | Agosto de 2027 a maio de 2028 | Alunos e orientadores | Soluções finalizadas, implantadas ou entregues como protótipos funcionais |
-| 10 | Produção de documentação simplificada | Janeiro a maio de 2028 | Alunos e orientadores | Manuais, vídeos curtos, guias de uso e registros técnicos simplificados |
-| 11 | Avaliação dos parceiros externos | Março a junho de 2028 | Coordenador, orientadores, alunos e parceiros | Termos de entrega e avaliações de satisfação preenchidos |
-| 12 | Consolidação dos resultados finais | Junho a 9 de agosto de 2028 | Coordenador e orientadores | Relatório final institucional, indicadores consolidados e proposta de continuidade |
+| 6 | Desenvolvimento das primeiras soluções | Novembro de 2026 a dezembro de 2026 | Alunos e orientadores | Protótipos, sistemas, dashboards, sites, APIs ou automações iniciados |
+| 7 | Desenvolvimento, validação e entrega do ciclo base | Janeiro a julho de 2027 | Alunos, orientadores e parceiros externos | Soluções concluídas ou validadas no período inicial de 12 meses |
+| 8 | Consolidação do período inicial | Julho a 9 de agosto de 2027 | Coordenador e orientadores | Fechamento do primeiro ciclo, indicadores parciais e decisão sobre prorrogação |
+| 9 | Prorrogação eventual: continuidade e novas vagas residuais | 10 de agosto de 2027 a 9 de agosto de 2028 | Coordenador, orientadores e alunos | Continuidade dos projetos em andamento e abertura de até 5 novos atendimentos |
 
 ### 15.2 Gráfico de Gantt
 
 ```mermaid
 gantt
-    title Cronograma do Projeto Integratech - 10/08/2026 a 09/08/2028
+    title Cronograma do Projeto Integratech - período inicial e prorrogação eventual
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
 
@@ -688,18 +702,15 @@ gantt
     Formação das equipes de alunos           :b2, 2026-10-01, 2026-11-30
     Plano enxuto de atendimento              :b3, 2026-10-15, 2026-11-30
 
-    section Desenvolvimento - Primeiro Ciclo
-    Desenvolvimento das primeiras soluções   :c1, 2026-11-01, 2027-07-31
-    Validação parcial com parceiros externos :c2, 2027-01-01, 2027-07-31
+    section Execução Inicial
+    Desenvolvimento das primeiras soluções   :c1, 2026-11-01, 2026-12-31
+    Desenvolvimento, validação e entrega     :c2, 2027-01-01, 2027-07-31
+    Consolidação do período inicial          :c3, 2027-07-01, 2027-08-09
 
-    section Desenvolvimento - Segundo Ciclo
-    Ampliação dos atendimentos               :d1, 2027-08-01, 2027-12-31
-    Desenvolvimento e implantação            :d2, 2027-08-01, 2028-05-31
-
-    section Encerramento e Avaliação
-    Documentação simplificada                :e1, 2028-01-01, 2028-05-31
-    Avaliação dos parceiros externos         :e2, 2028-03-01, 2028-06-30
-    Consolidação dos resultados finais        :e3, 2028-06-01, 2028-08-09
+    section Prorrogação Eventual
+    Continuidade dos atendimentos            :d1, 2027-08-10, 2028-08-09
+    Até 5 novas demandas                     :d2, 2027-08-10, 2028-08-09
+    Consolidação final                       :d3, 2028-06-01, 2028-08-09
 ```
 
 ---
@@ -770,7 +781,7 @@ A lógica de funcionamento será:
 2. **Demanda média:** atendimento em ciclo semestral, com duração aproximada de 4 a 6 meses.
 3. **Demanda complexa:** atendimento em ciclo estendido, podendo envolver mais de uma equipe ou mais de um semestre.
 
-Esse modelo permite que o projeto mantenha fluxo contínuo de entrada, desenvolvimento e entrega de soluções, evitando excesso de burocracia e favorecendo a participação prática dos alunos.
+Esse modelo permite que o projeto mantenha fluxo contínuo de entrada, desenvolvimento e entrega de soluções, evitando excesso de burocracia e favorecendo a participação prática dos alunos. No período inicial, a capacidade planejada é de até 35 atendimentos; com eventual prorrogação, o teto global permanece limitado a 40 alunos e 40 empresas/parceiros externos.
 
 ---
 
