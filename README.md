@@ -96,7 +96,7 @@
 | **Público-alvo** | Empresas, produtores rurais, empreendedores, instituições públicas, organizações da sociedade civil, cooperativas, associações e comunidade regional |
 | **Vagas** | Até 5 alunos por professor orientador por semestre, conforme disponibilidade de orientação e compatibilidade das demandas. |
 | **Total estimado de alunos atendidos** | Até 75 alunos ao longo dos 24 meses |
-| **Total estimado de empresas atendidas** | Até 30 empresas/parceiros externos ao longo dos 24 meses |
+| **Total estimado de empresas atendidas** | Até 75 empresas/parceiros externos ao longo dos 24 meses |
 
 ---
 
@@ -287,9 +287,9 @@ O projeto poderá gerar:
 
 ## 11. Organização das Equipes
 
-Cada demanda poderá ser atendida por um aluno individualmente ou por equipe de dois a quatro alunos, conforme complexidade do problema.
+Cada demanda deverá ser atendida por um aluno individualmente, com vinculação a uma empresa, produtor rural, instituição ou parceiro externo específico.
 
-Cada aluno ou equipe terá um professor orientador vinculado. O coordenador do projeto acompanhará a distribuição das demandas, a organização geral, o registro institucional das atividades e a consolidação dos resultados.
+Cada aluno terá um professor orientador vinculado. O coordenador do projeto acompanhará a distribuição das demandas, a organização geral, o registro institucional das atividades e a consolidação dos resultados.
 
 
 ### 11.1 Participação Discente e Carga Horária
