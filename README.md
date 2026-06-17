@@ -1,68 +1,73 @@
-# Integratech-sinop
+# Integratech
 
-# Projeto de Extensão Universitária
-
-# Integratech Sinop
+## Projeto de Extensão Universitária
 
 
-- [Integratech-sinop](#integratech-sinop)
 - [Projeto de Extensão Universitária](#projeto-de-extensão-universitária)
-- [Integratech Sinop](#integratech-sinop-1)
-  - [Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação](#laboratório-extensionista-de-soluções-digitais-inovação-e-agrocomputação)
-  - [1. Identificação do Projeto](#1-identificação-do-projeto)
-  - [2. Resumo](#2-resumo)
-  - [3. Justificativa](#3-justificativa)
-  - [4. Público-alvo](#4-público-alvo)
-  - [5. Objetivo Geral](#5-objetivo-geral)
-  - [6. Objetivos Específicos](#6-objetivos-específicos)
-  - [7. Linhas de Atuação](#7-linhas-de-atuação)
-    - [7.1 Sistemas de Informação e Software](#71-sistemas-de-informação-e-software)
-    - [7.2 Dados, Indicadores e Dashboards](#72-dados-indicadores-e-dashboards)
-    - [7.3 Agrocomputação e Tecnologia para o Agro](#73-agrocomputação-e-tecnologia-para-o-agro)
-    - [7.4 Inovação, Prototipação e Consultoria Tecnológica](#74-inovação-prototipação-e-consultoria-tecnológica)
-    - [7.5 Conteúdo Técnico e Disseminação](#75-conteúdo-técnico-e-disseminação)
-  - [8. Metodologia Simplificada](#8-metodologia-simplificada)
-    - [8.1 Etapa 1 — Entrada da Demanda e Triagem](#81-etapa-1--entrada-da-demanda-e-triagem)
-    - [8.2 Etapa 2 — Plano Enxuto de Atendimento](#82-etapa-2--plano-enxuto-de-atendimento)
-    - [8.3 Etapa 3 — Desenvolvimento, Acompanhamento e Validação](#83-etapa-3--desenvolvimento-acompanhamento-e-validação)
-    - [8.4 Etapa 4 — Entrega Final e Avaliação](#84-etapa-4--entrega-final-e-avaliação)
-  - [9. Documentação Mínima Obrigatória](#9-documentação-mínima-obrigatória)
-  - [10. Tipos de Produtos Esperados](#10-tipos-de-produtos-esperados)
-  - [11. Organização das Equipes](#11-organização-das-equipes)
-    - [11.1 Participação Discente e Carga Horária](#111-participação-discente-e-carga-horária)
-      - [Tabela de Referência de Carga Horária](#tabela-de-referência-de-carga-horária)
-    - [11.2 Capacidade de Atendimento Discente por Semestre](#112-capacidade-de-atendimento-discente-por-semestre)
-    - [11.3 Síntese da Capacidade de Atendimento](#113-síntese-da-capacidade-de-atendimento)
-    - [11.4 Representação Visual da Capacidade de Atendimento](#114-representação-visual-da-capacidade-de-atendimento)
-    - [11.5 Distribuição semestral](#115-distribuição-semestral)
-    - [11.6 Regra Operacional](#116-regra-operacional)
-    - [11.7 Jornada do Discente no Projeto](#117-jornada-do-discente-no-projeto)
-    - [11.7 Jornada Vertical do Discente no Projeto](#117-jornada-vertical-do-discente-no-projeto)
-    - [11.8 Trilha de Desenvolvimento do Discente](#118-trilha-de-desenvolvimento-do-discente)
-  - [12. Responsabilidades dos Participantes](#12-responsabilidades-dos-participantes)
-    - [12.1 Coordenador](#121-coordenador)
-    - [12.2 Professores Orientadores](#122-professores-orientadores)
-    - [12.3 Discentes](#123-discentes)
-    - [12.4 Empresas, Produtores e Instituições Atendidas](#124-empresas-produtores-e-instituições-atendidas)
-  - [13. Critérios para Aceitação de Discentes e Demandas](#13-critérios-para-aceitação-de-discentes-e-demandas)
-    - [13.1 Requisitos Obrigatórios para Início da Atividade](#131-requisitos-obrigatórios-para-início-da-atividade)
-    - [13.2 Critérios para Aceitação da Demanda Externa](#132-critérios-para-aceitação-da-demanda-externa)
-    - [13.3. Modelo de carta de aceitação](#133-modelo-de-carta-de-aceitação)
-    - [Documentação Mínima Obrigatória](#documentação-mínima-obrigatória)
-  - [14. Princípios de Funcionamento](#14-princípios-de-funcionamento)
-  - [15. Cronograma Geral do Projeto](#15-cronograma-geral-do-projeto)
-    - [15.1 Cronograma em Tabela](#151-cronograma-em-tabela)
-    - [15.2 Gráfico de Gantt](#152-gráfico-de-gantt)
-  - [16. Fluxo da Metodologia Simplificada](#16-fluxo-da-metodologia-simplificada)
-    - [16.1 Etapas do Fluxo](#161-etapas-do-fluxo)
-    - [16.2 Fluxo em Diagrama](#162-fluxo-em-diagrama)
-    - [16.3 Síntese Visual da Metodologia](#163-síntese-visual-da-metodologia)
-  - [17. Integração entre Cronograma e Metodologia](#17-integração-entre-cronograma-e-metodologia)
-  - [18. Avaliação](#18-avaliação)
-  - [19. Indicadores de Resultado](#19-indicadores-de-resultado)
-  - [20. Resultados Esperados](#20-resultados-esperados)
-  - [21. Observações sobre Propriedade, Uso e Responsabilidade](#21-observações-sobre-propriedade-uso-e-responsabilidade)
-  - [22. Síntese Final](#22-síntese-final)
+- [Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação](#laboratório-extensionista-de-soluções-digitais-inovação-e-agrocomputação)
+- [1. Identificação do Projeto](#1-identificação-do-projeto)
+- [2. Resumo](#2-resumo)
+- [3. Justificativa](#3-justificativa)
+- [4. Público-alvo](#4-público-alvo)
+- [5. Objetivo Geral](#5-objetivo-geral)
+- [6. Objetivos Específicos](#6-objetivos-específicos)
+- [7. Linhas de Atuação](#7-linhas-de-atuação)
+- [7.1 Sistemas de Informação e Software](#71-sistemas-de-informação-e-software)
+- [7.2 Dados, Indicadores e Dashboards](#72-dados-indicadores-e-dashboards)
+- [7.3 Agrocomputação e Tecnologia para o Agro](#73-agrocomputação-e-tecnologia-para-o-agro)
+- [7.4 Inovação, Prototipação e Consultoria Tecnológica](#74-inovação-prototipação-e-consultoria-tecnológica)
+- [7.5 Conteúdo Técnico e Disseminação](#75-conteúdo-técnico-e-disseminação)
+- [8. Metodologia Simplificada](#8-metodologia-simplificada)
+- [8.1 Etapa 1 — Entrada da Demanda e Triagem](#81-etapa-1--entrada-da-demanda-e-triagem)
+- [8.2 Etapa 2 — Plano Enxuto de Atendimento](#82-etapa-2--plano-enxuto-de-atendimento)
+- [8.3 Etapa 3 — Desenvolvimento, Acompanhamento e Validação](#83-etapa-3--desenvolvimento-acompanhamento-e-validação)
+- [8.4 Etapa 4 — Entrega Final e Avaliação](#84-etapa-4--entrega-final-e-avaliação)
+- [9. Documentação Mínima Obrigatória](#9-documentação-mínima-obrigatória)
+- [10. Tipos de Produtos Esperados](#10-tipos-de-produtos-esperados)
+- [11. Organização das Equipes](#11-organização-das-equipes)
+- [11.1 Participação Discente e Carga Horária](#111-participação-discente-e-carga-horária)
+- [Tabela de Referência de Carga Horária](#tabela-de-referência-de-carga-horária)
+- [11.2 Capacidade de Atendimento Discente por Semestre](#112-capacidade-de-atendimento-discente-por-semestre)
+- [11.3 Síntese da Capacidade de Atendimento](#113-síntese-da-capacidade-de-atendimento)
+- [11.4 Representação Visual da Capacidade de Atendimento](#114-representação-visual-da-capacidade-de-atendimento)
+- [11.5 Distribuição semestral](#115-distribuição-semestral)
+- [11.6 Regra Operacional](#116-regra-operacional)
+- [11.7 Jornada do Discente no Projeto](#117-jornada-do-discente-no-projeto)
+- [11.7 Jornada Vertical do Discente no Projeto](#117-jornada-vertical-do-discente-no-projeto)
+- [11.8 Trilha de Desenvolvimento do Discente](#118-trilha-de-desenvolvimento-do-discente)
+- [12. Responsabilidades dos Participantes](#12-responsabilidades-dos-participantes)
+- [12.1 Coordenador](#121-coordenador)
+- [12.2 Professores Orientadores](#122-professores-orientadores)
+- [12.3 Discentes](#123-discentes)
+- [12.4 Empresas, Produtores e Instituições Atendidas](#124-empresas-produtores-e-instituições-atendidas)
+- [13. Critérios para Aceitação de Discentes e Demandas](#13-critérios-para-aceitação-de-discentes-e-demandas)
+- [13.1 Requisitos Obrigatórios para Início da Atividade](#131-requisitos-obrigatórios-para-início-da-atividade)
+- [13.1.1 Critérios para Não Aceitação de Discentes](#1311-critérios-para-não-aceitação-de-discentes)
+- [13.2 Critérios para Aceitação da Demanda Externa](#132-critérios-para-aceitação-da-demanda-externa)
+- [13.2.1 Critérios de Priorização das Demandas](#1321-critérios-de-priorização-das-demandas)
+- [13.3. Modelo de carta de aceitação](#133-modelo-de-carta-de-aceitação)
+- [Documentação Mínima Obrigatória](#documentação-mínima-obrigatória)
+- [14. Princípios de Funcionamento](#14-princípios-de-funcionamento)
+- [15. Cronograma Geral do Projeto](#15-cronograma-geral-do-projeto)
+- [15.1 Cronograma em Tabela](#151-cronograma-em-tabela)
+- [15.2 Gráfico de Gantt](#152-gráfico-de-gantt)
+- [16. Fluxo da Metodologia Simplificada](#16-fluxo-da-metodologia-simplificada)
+- [16.1 Etapas do Fluxo](#161-etapas-do-fluxo)
+- [16.2 Fluxo em Diagrama](#162-fluxo-em-diagrama)
+- [16.3 Síntese Visual da Metodologia](#163-síntese-visual-da-metodologia)
+- [17. Integração entre Cronograma e Metodologia](#17-integração-entre-cronograma-e-metodologia)
+- [18. Avaliação](#18-avaliação)
+- [19. Indicadores de Resultado](#19-indicadores-de-resultado)
+- [20. Resultados Esperados](#20-resultados-esperados)
+- [21. Observações sobre Propriedade, Uso e Responsabilidade](#21-observações-sobre-propriedade-uso-e-responsabilidade)
+- [21.1 Propriedade intelectual e uso da solução](#211-propriedade-intelectual-e-uso-da-solução)
+- [21.2 Dados, sigilo, ferramentas e infraestrutura](#212-dados-sigilo-ferramentas-e-infraestrutura)
+- [21.3 Limites de manutenção, continuidade e encerramento](#213-limites-de-manutenção-continuidade-e-encerramento)
+- [22. Síntese Final](#22-síntese-final)
+- [23. Anexo - Modelos de Propriedade Intelectual](#23-anexo---modelos-de-propriedade-intelectual)
+- [23.1 Modelo de cessão para a empresa parceira](#231-modelo-de-cessão-para-a-empresa-parceira)
+- [23.2 Modelo de licença de uso para a empresa parceira](#232-modelo-de-licença-de-uso-para-a-empresa-parceira)
+- [23.3 Modelo de titularidade institucional com autorização de uso](#233-modelo-de-titularidade-institucional-com-autorização-de-uso)
 
 
 
@@ -75,23 +80,24 @@
 
 | Item | Informação |
 |---|---|
-| **Título do projeto** | ConectaTech Sinop: Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação |
-| **Nome curto** | ConectaTech Sinop |
+| **Título do projeto** | Integratech: Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação |
+| **Nome curto** | Integratech |
 | **Modalidade** | Projeto de Extensão Universitária |
 | **Área temática** | Tecnologia, Inovação, Desenvolvimento Regional e Agrocomputação |
 | **Coordenador** | Prof. Dr. Emiliano Soares Monteiro |
+| **Vice-coordenador** | Prof. Dr. Benevid Félix da Silva |
 | **Professores orientadores** | Prof. Dr. Ivan Luiz Pedroso Filho;<br> Prof. Dr. Benevid Félix da Silva;<br> Prof. Msc. Francisco Sanches Banhos Filho |
 | **Período de execução** | Agosto de 2026 a julho de 2028 |
 | **Duração** | 24 meses |
 | **Local de execução** | Sinop e região norte de Mato Grosso |
 | **Público-alvo** | Empresas, produtores rurais, empreendedores, instituições públicas, organizações da sociedade civil, cooperativas, associações e comunidade regional |
-| **Vagas** | 2 por professor, nos primeiros 6 meses ofertaremos 3 vagas, em 2027 as demais vagas. |
+| **Vagas** | Até 5 alunos por professor orientador por semestre, conforme disponibilidade de orientação e compatibilidade das demandas. |
 
 ---
 
 ## 2. Resumo
 
-O projeto **ConectaTech Sinop: Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação** tem como objetivo aproximar a universidade da comunidade regional por meio do atendimento tecnológico a empresas, produtores rurais, empreendedores, instituições e organizações sociais de Sinop e região.
+O projeto **Integratech: Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação** tem como objetivo aproximar a universidade da comunidade regional por meio do atendimento tecnológico a empresas, produtores rurais, empreendedores, instituições e organizações sociais de Sinop e região.
 
 A proposta permitirá que acadêmicos, sob orientação docente, desenvolvam soluções digitais simples, úteis e viáveis para problemas reais da comunidade. As ações poderão envolver sistemas web, aplicativos, dashboards, automações, bancos de dados, análise de dados, protótipos, landing pages, ferramentas de gestão e soluções voltadas ao agronegócio.
 
@@ -289,7 +295,7 @@ Cada discente poderá dedicar até **12 horas semanais** às atividades do proje
 
 Para fins de certificação e aproveitamento acadêmico, cada discente poderá contabilizar até **300 horas de participação** no projeto.
 
-Considerando a carga máxima semanal prevista, o limite de 300 horas poderá ser alcançado em aproximadamente seis meses de participação efetiva.
+Considerando a carga máxima semanal prevista, o limite de 300 horas poderá ser alcançado em até **25 semanas de participação efetiva**, podendo o discente iniciar suas atividades em um semestre e concluir no semestre seguinte.
 
 #### Tabela de Referência de Carga Horária
 
@@ -299,26 +305,26 @@ Considerando a carga máxima semanal prevista, o limite de 300 horas poderá ser
 | Participação bimestral                         |   12 h/semana |            2 meses |            96 h |
 | Participação trimestral                        |   12 h/semana |            3 meses |           144 h |
 | Participação semestral                         |   12 h/semana |            6 meses |           288 h |
-| Participação para integralização das 300 horas |   12 h/semana | 6 meses e 1 semana |           300 h |
+| Participação para integralização das 300 horas |   12 h/semana |       25 semanas |           300 h |
 
 O ingresso e a permanência dos discentes poderão ocorrer em ciclos semestrais, permitindo a entrada contínua de novos participantes ao longo dos 24 meses de execução do projeto. Após a conclusão das 300 horas, o discente poderá continuar colaborando voluntariamente com o projeto, observadas as necessidades das equipes e a disponibilidade dos orientadores.
 
 
 ### 11.2 Capacidade de Atendimento Discente por Semestre
 
-Para garantir acompanhamento adequado, qualidade das entregas e equilíbrio da carga de orientação, cada professor orientador acompanhará **até 2 alunos por semestre**.
+Para garantir acompanhamento adequado, qualidade das entregas e equilíbrio da carga de orientação, cada professor orientador acompanhará **até 5 alunos por semestre**.
 
-No primeiro semestre de execução, o coordenador atuará prioritariamente na organização do projeto, divulgação, triagem das demandas, articulação com empresas, produtores rurais, instituições e parceiros externos. Nesse período, o atendimento direto aos alunos será realizado pelos três professores orientadores.
+No primeiro semestre de execução, o coordenador atuará prioritariamente na organização do projeto, divulgação, triagem das demandas, articulação com empresas, produtores rurais, instituições e parceiros externos. Nesse período, o atendimento direto aos alunos será realizado exclusivamente pelos professores **Prof. Dr. Ivan Luiz Pedroso Filho**, **Prof. Dr. Benevid Félix da Silva** e **Prof. Msc. Francisco Sanches Banhos Filho**.
 
 A partir do segundo semestre, o coordenador também poderá atuar diretamente na orientação discente, ampliando a capacidade de atendimento para até quatro docentes orientadores por semestre.
 
 | Semestre | Período | Professores Orientando | Alunos por Professor | Capacidade de Alunos no Semestre | Observação |
 |---|---|---:|---:|---:|---|
-| 1º semestre | Agosto a dezembro de 2026 | 3 professores | até 2 alunos | 6 alunos | Coordenador atua na organização, triagem e articulação externa |
-| 2º semestre | Janeiro a julho de 2027 | 4 professores | até 3 alunos | até 12 alunos | Coordenador também poderá orientar alunos |
-| 3º semestre | Agosto a dezembro de 2027 | 4 professores | até 3 alunos | até 12 alunos | Continuidade dos atendimentos e entrada de novas demandas |
-| 4º semestre | Janeiro a julho de 2028 | 4 professores | até 3 alunos |até 12 alunos | Finalização dos atendimentos e consolidação dos resultados |
-| **Total** | **Agosto/2026 a julho/2028** | — | — | aproximadamente **30 alunos** | Capacidade estimada ao longo dos 24 meses |
+| 1º semestre | Agosto a dezembro de 2026 | 3 professores | até 5 alunos | até 15 alunos | Orientação exclusiva de Ivan, Benevid e Francisco; coordenador atua na organização, triagem e articulação externa |
+| 2º semestre | Janeiro a julho de 2027 | 4 professores | até 5 alunos | até 20 alunos | Coordenador também poderá orientar alunos |
+| 3º semestre | Agosto a dezembro de 2027 | 4 professores | até 5 alunos | até 20 alunos | Continuidade dos atendimentos e entrada de novas demandas |
+| 4º semestre | Janeiro a julho de 2028 | 4 professores | até 5 alunos | até 20 alunos | Finalização dos atendimentos e consolidação dos resultados |
+| **Total** | **Agosto/2026 a julho/2028** | — | — | **até 75 alunos** | Capacidade estimada ao longo dos 24 meses |
 
 ### 11.3 Síntese da Capacidade de Atendimento
 
@@ -326,13 +332,13 @@ A partir do segundo semestre, o coordenador também poderá atuar diretamente na
 |---|---|
 | Duração total do projeto | 24 meses |
 | Organização da participação discente | Ciclos semestrais |
-| Duração máxima da trilha discente | Até 1 semestre |
+| Duração máxima da trilha discente | Até 25 semanas de participação efetiva, podendo atravessar 2 semestres |
 | Carga horária máxima por aluno | Até 300 horas |
 | Carga semanal máxima por aluno | Até 12 horas semanais |
-| Número máximo de alunos por professor | Até 2 alunos por semestre |
+| Número máximo de alunos por professor | Até 5 alunos por semestre |
 | Professores orientadores no 1º semestre | 3 professores |
 | Professores orientadores do 2º ao 4º semestre | Até 4 professores |
-| Capacidade total estimada | Até 30 alunos |
+| Capacidade total estimada | Até 75 alunos |
 
 
 
@@ -340,19 +346,19 @@ A partir do segundo semestre, o coordenador também poderá atuar diretamente na
 
 ```mermaid
 flowchart TD
-    A[Projeto ConectaTech Sinop<br/>Duração: 24 meses] --> B[Organização em 4 semestres]
+    A[Projeto Integratech<br/>Duração: 24 meses] --> B[Organização em 4 semestres]
 
     B --> C1[1º semestre<br/>Ago/2026 a Dez/2026]
     B --> C2[2º semestre<br/>Jan/2027 a Jul/2027]
     B --> C3[3º semestre<br/>Ago/2027 a Dez/2027]
     B --> C4[4º semestre<br/>Jan/2028 a Jul/2028]
 
-    C1 --> D1[3 professores orientadores<br/>2 alunos por professor<br/>Total: 6 alunos]
-    C2 --> D2[4 professores orientadores<br/>2 alunos por professor<br/>Total: 8 alunos]
-    C3 --> D3[4 professores orientadores<br/>2 alunos por professor<br/>Total: 8 alunos]
-    C4 --> D4[4 professores orientadores<br/>2 alunos por professor<br/>Total: 8 alunos]
+    C1 --> D1[3 professores orientadores<br/>5 alunos por professor<br/>Total: 15 alunos]
+    C2 --> D2[4 professores orientadores<br/>5 alunos por professor<br/>Total: 20 alunos]
+    C3 --> D3[4 professores orientadores<br/>5 alunos por professor<br/>Total: 20 alunos]
+    C4 --> D4[4 professores orientadores<br/>5 alunos por professor<br/>Total: 20 alunos]
 
-    D1 --> E[Total estimado em 2 anos<br/>30 alunos atendidos]
+    D1 --> E[Total estimado em 2 anos<br/>75 alunos atendidos]
     D2 --> E
     D3 --> E
     D4 --> E
@@ -364,8 +370,8 @@ flowchart TD
 xychart-beta
     title "Capacidade estimada de atendimento discente por semestre"
     x-axis ["2026/2", "2027/1", "2027/2", "2028/1"]
-    y-axis "Alunos atendidos" 0 --> 10
-    bar [6, 8, 8, 8]
+    y-axis "Alunos atendidos" 0 --> 25
+    bar [15, 20, 20, 20]
 ```
 
 
@@ -373,14 +379,14 @@ xychart-beta
 
 A organização das vagas seguirá a seguinte regra geral:
 
-cada professor orientador acompanhará até 2 alunos por semestre;
-cada aluno poderá concluir sua trilha de participação em até 1 semestre;
+cada professor orientador acompanhará até 5 alunos por semestre;
+cada aluno poderá concluir sua trilha de participação em até 25 semanas de participação efetiva, podendo iniciar em um semestre e concluir no semestre seguinte;
 cada aluno poderá contabilizar até 300 horas no projeto;
 no primeiro semestre, o coordenador atuará prioritariamente na organização, divulgação, triagem das demandas e articulação externa;
 a partir do segundo semestre, o coordenador poderá também atuar como orientador;
 ao final de cada semestre, novas vagas poderão ser abertas para ingresso de outros alunos.
 
-Dessa forma, o projeto mantém uma estrutura simples, com acompanhamento próximo dos alunos, menor sobrecarga dos professores e capacidade estimada de atendimento de até 30 discentes ao longo dos 24 meses.
+Dessa forma, o projeto mantém uma estrutura simples, com distribuição semestral das vagas e capacidade estimada de atendimento de até 75 discentes ao longo dos 24 meses.
 
 
 ### 11.7 Jornada do Discente no Projeto
@@ -450,6 +456,8 @@ Compete ao coordenador:
 - elaborar relatórios institucionais;
 - zelar pela aderência do projeto aos objetivos da extensão universitária.
 
+O vice-coordenador, **Prof. Dr. Benevid Félix da Silva**, apoiará a coordenação do projeto, podendo colaborar na organização das atividades, na articulação interna, na orientação discente e no acompanhamento dos atendimentos, conforme definição da coordenação.
+
 ### 12.2 Professores Orientadores
 
 Compete aos professores orientadores:
@@ -471,6 +479,8 @@ Compete aos discentes:
 - desenvolver os produtos tecnológicos;
 - manter registros mínimos de acompanhamento;
 - apresentar entregas parciais e finais;
+- respeitar as normas internas da empresa parceira e as normas institucionais vigentes da universidade, especialmente quanto a sigilo, uso de dados, segurança da informação e conduta;
+- comunicar formalmente ao professor orientador, à coordenação e ao parceiro externo eventual desistência ou impossibilidade de continuidade da atividade;
 - agir com ética, responsabilidade e sigilo em relação às informações recebidas.
 
 ### 12.4 Empresas, Produtores e Instituições Atendidas
@@ -480,6 +490,8 @@ Compete aos parceiros externos:
 - apresentar a demanda de forma clara;
 - indicar um responsável pelo acompanhamento;
 - fornecer informações necessárias ao desenvolvimento;
+- acompanhar o desenvolvimento da solução e orientar a equipe quanto às regras internas, processos, necessidades operacionais e critérios de validação;
+- quando houver disponibilidade, permitir o uso de notebooks, softwares, acessos ou outros recursos necessários ao desenvolvimento, observadas suas políticas internas;
 - validar protótipos e entregas;
 - respeitar o caráter acadêmico e extensionista do projeto;
 - avaliar a solução ao final do atendimento.
@@ -511,6 +523,20 @@ O discente somente poderá iniciar oficialmente suas atividades no projeto após
 
 A Carta de Aceite deverá indicar que o parceiro externo concorda em participar do projeto, fornecer as informações necessárias, acompanhar o desenvolvimento da solução e validar as entregas realizadas pelo discente ou equipe.
 
+### 13.1.1 Critérios para Não Aceitação de Discentes
+
+O ingresso ou a permanência do discente poderá não ser aceito nas seguintes situações:
+
+| Critério de não aceitação | Descrição |
+|---|---|
+| Ausência de carga horária docente disponível | Não haverá ingresso quando os professores orientadores não tiverem disponibilidade de carga horária para acompanhamento |
+| Incompatibilidade da área proposta | Não haverá ingresso quando a área proposta pelo aluno ou a demanda vinculada da empresa não for compatível com as áreas de atuação dos orientadores disponíveis |
+| Licença ou afastamento de orientadores | Não haverá ingresso quando os orientadores estiverem em licença-saúde, licença-prêmio, afastamento institucional ou outra condição que inviabilize a orientação |
+| Incompatibilidade tecnológica ou metodológica | Não haverá ingresso quando as tecnologias, metodologias ou abordagem propostas não estiverem alinhadas ao trabalho desenvolvido pelos professores orientadores |
+| Falta de demanda viável ou parceiro formalizado | Não haverá ingresso quando o discente não estiver vinculado a demanda compatível, com parceiro externo definido e aceite formal |
+| Descumprimento de requisitos institucionais | Não haverá ingresso quando o discente não atender aos requisitos acadêmicos, documentais, éticos ou operacionais definidos pelo projeto e pela universidade |
+| Outros impedimentos justificados | A coordenação poderá indeferir o ingresso em situações excepcionais devidamente justificadas, relacionadas à viabilidade, ao risco, à responsabilidade técnica ou ao interesse institucional |
+
 ### 13.2 Critérios para Aceitação da Demanda Externa
 
 As demandas apresentadas por empresas, produtores rurais, instituições ou parceiros externos serão avaliadas conforme os seguintes critérios:
@@ -518,7 +544,7 @@ As demandas apresentadas por empresas, produtores rurais, instituições ou parc
 | Critério | Descrição |
 |---|---|
 | Aderência ao projeto | A demanda deve estar relacionada a soluções digitais, inovação, agrocomputação, dados, automação, sistemas ou apoio tecnológico |
-| Viabilidade de execução | A solução deve ser possível de ser desenvolvida no prazo de um semestre ou organizada em etapas compatíveis |
+| Viabilidade de execução | A solução deve ser possível de ser desenvolvida dentro da carga horária prevista, em até 25 semanas de participação efetiva, ou organizada em etapas compatíveis |
 | Disponibilidade de orientação | Deve haver professor orientador disponível para acompanhar o aluno ou equipe |
 | Aceite formal do parceiro | A empresa ou instituição deverá entregar Carta de Aceite formalizando a participação |
 | Relevância formativa | A demanda deve contribuir para a formação prática do discente |
@@ -528,7 +554,59 @@ As demandas apresentadas por empresas, produtores rurais, instituições ou parc
 
 Demandas sem professor orientador definido, sem Carta de Aceite do parceiro externo ou incompatíveis com os objetivos do projeto não serão iniciadas formalmente.
 
+### 13.2.1 Critérios de Priorização das Demandas
+
+Quando houver número de demandas superior à capacidade de atendimento do projeto, a priorização observará os seguintes critérios:
+
+| Critério de priorização | Diretriz de decisão |
+|---|---|
+| Aderência aos objetivos do projeto | Terão prioridade demandas claramente relacionadas a soluções digitais, dados, automação, software ou agrocomputação |
+| Compatibilidade com o limite de 300 horas | Terão prioridade demandas com escopo possível de ser entregue dentro da carga horária máxima prevista para o discente ou equipe |
+| Potencial formativo | Terão prioridade demandas que proporcionem aprendizado técnico relevante aos alunos |
+| Impacto social, econômico ou regional | Terão prioridade demandas com potencial concreto de benefício para a comunidade, empresa, produtor ou instituição atendida |
+| Maturidade e clareza da demanda | Terão prioridade demandas com problema bem definido, responsável externo identificado e informações mínimas disponíveis |
+| Disponibilidade de acompanhamento do parceiro | Terão prioridade demandas cujo parceiro se comprometa a acompanhar, orientar e validar o desenvolvimento |
+| Risco jurídico, ético e operacional | Demandas com menor risco relacionado a dados pessoais, sigilo, dependências críticas ou responsabilidade técnica terão prioridade |
+
+Em caso de empate entre demandas com características semelhantes, a coordenação e os orientadores poderão considerar a ordem de entrada, a disponibilidade de professores e a distribuição equilibrada entre áreas de atuação do projeto.
+
 ### 13.3. Modelo de carta de aceitação
+
+**CARTA DE ACEITE DA EMPRESA/PARCEIRO EXTERNO**
+
+Eu, **[nome do responsável]**, representante da **[nome da empresa, instituição, cooperativa, associação ou propriedade rural]**, inscrita no **[CNPJ/identificação]**, declaro que aceito participar do projeto **Integratech: Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação**, vinculando-me à demanda descrita a seguir:
+
+- parceiro externo: **[nome da empresa/instituição]**;
+- responsável pelo acompanhamento: **[nome completo]**;
+- contato: **[telefone/e-mail]**;
+- descrição resumida da demanda: **[descrever problema, necessidade ou oportunidade]**;
+- solução esperada: **[sistema, dashboard, automação, site, aplicativo, relatório, protótipo ou outro]**;
+- data prevista de início: **[dd/mm/aaaa]**;
+- data prevista de encerramento/entrega: **[dd/mm/aaaa]**.
+
+Declaro, ainda, que:
+
+1. autorizo o desenvolvimento acadêmico da solução no âmbito do projeto;
+2. comprometo-me a disponibilizar informações necessárias ao entendimento da demanda, respeitados os limites de sigilo e confidencialidade;
+3. comprometo-me a acompanhar o desenvolvimento da atividade por meio de reuniões, mensagens, validações parciais ou outro formato definido com a equipe;
+4. comprometo-me a orientar os alunos quanto às regras internas, processos, necessidades operacionais e critérios mínimos de validação da solução;
+5. estou ciente de que o projeto possui caráter acadêmico e extensionista, não substituindo contrato comercial de desenvolvimento, suporte técnico permanente ou manutenção continuada;
+6. estou ciente de que o escopo da atividade deverá ser compatível com a carga horária máxima do discente ou equipe, limitada ao planejamento aprovado no projeto;
+7. estou ciente de que a certificação de horas do discente depende da entrega final regular da proposta e do encerramento validado no projeto, não sendo devida certificação quando o aluno não concluir a atividade;
+8. comprometo-me a validar, ao final, a entrega realizada e registrar avaliação sobre o atendimento recebido.
+
+Quando aplicável, declaro também que:
+
+- informarei previamente eventuais restrições de acesso, sigilo, uso de dados, uso de sistemas internos ou normas específicas da empresa/instituição;
+- autorizarei, conforme disponibilidade e interesse, o uso de notebooks, softwares, acessos ou outros recursos necessários ao desenvolvimento, observadas as políticas internas do parceiro.
+
+Local e data: **[cidade], [dia] de [mês] de [ano]**
+
+Assinatura do responsável externo: **________________________________**
+
+Nome completo: **________________________________**
+
+Cargo/função: **________________________________**
 
 
 ### Documentação Mínima Obrigatória
@@ -557,6 +635,8 @@ O projeto será orientado pelos seguintes princípios:
 - entregas práticas;
 - responsabilidade acadêmica;
 - ética no uso de dados e informações;
+- proteção de dados pessoais, sigilo e segurança da informação;
+- conformidade com normas institucionais vigentes da universidade e com as regras internas do parceiro externo;
 - respeito às limitações dos alunos;
 - colaboração entre universidade e comunidade;
 - uso preferencial de tecnologias acessíveis;
@@ -573,12 +653,12 @@ O projeto terá duração de **24 meses**, com início em **agosto de 2026** e t
 | Etapa | Atividade | Período | Responsáveis | Produto/Resultado Esperado |
 |---|---|---|---|---|
 | 1 | Organização inicial do projeto | Agosto a setembro de 2026 | Coordenador e professores orientadores | Projeto estruturado, canais definidos e materiais de divulgação preparados |
-| 2 | Divulgação e prospecção de demandas | Agosto a outubro de 2026 | Coordenador, orientadores e alunos | Empresas, produtores e instituições interessados cadastrados |
-| 3 | Recebimento e triagem das demandas | Setembro a dezembro de 2026 | Coordenador e orientadores | Demandas avaliadas e classificadas por área, viabilidade e prioridade |
-| 4 | Formação das equipes de alunos | Outubro a dezembro de 2026 | Coordenador e orientadores | Alunos vinculados às demandas e professores orientadores definidos |
-| 5 | Elaboração do plano enxuto de atendimento | Outubro de 2026 a janeiro de 2027 | Alunos e orientadores | Plano com problema, objetivo, escopo, tecnologias e cronograma resumido |
-| 6 | Desenvolvimento das primeiras soluções | Janeiro a julho de 2027 | Alunos e orientadores | Protótipos, sistemas, dashboards, sites, APIs ou automações em desenvolvimento |
-| 7 | Validação parcial com parceiros externos | Março a julho de 2027 | Alunos, orientadores e parceiros externos | Ajustes nas soluções conforme feedback das empresas ou instituições |
+| 2 | Ambientação inicial dos alunos e padronização de ferramentas | Setembro a outubro de 2026 | Coordenador e orientadores | Alunos alinhados às regras do projeto, ferramentas definidas e fluxo de trabalho organizado |
+| 3 | Divulgação e prospecção de demandas | Agosto a outubro de 2026 | Coordenador, orientadores e alunos | Empresas, produtores e instituições interessados cadastrados |
+| 4 | Recebimento, triagem e priorização das demandas | Setembro a novembro de 2026 | Coordenador e orientadores | Demandas avaliadas e classificadas por área, viabilidade, prioridade e aderência ao limite de 300 horas |
+| 5 | Formação das equipes e elaboração do plano enxuto de atendimento | Outubro a novembro de 2026 | Alunos e orientadores | Alunos vinculados às demandas e plano com problema, objetivo, escopo, tecnologias e cronograma resumido |
+| 6 | Desenvolvimento das primeiras soluções | Novembro de 2026 a julho de 2027 | Alunos e orientadores | Protótipos, sistemas, dashboards, sites, APIs ou automações em desenvolvimento |
+| 7 | Validação parcial com parceiros externos | Janeiro a julho de 2027 | Alunos, orientadores e parceiros externos | Ajustes nas soluções conforme feedback das empresas ou instituições |
 | 8 | Ampliação dos atendimentos | Agosto a dezembro de 2027 | Coordenador, orientadores e alunos | Entrada de novas demandas e continuidade dos projetos existentes |
 | 9 | Desenvolvimento e implantação das soluções | Agosto de 2027 a maio de 2028 | Alunos e orientadores | Soluções finalizadas, implantadas ou entregues como protótipos funcionais |
 | 10 | Produção de documentação simplificada | Janeiro a maio de 2028 | Alunos e orientadores | Manuais, vídeos curtos, guias de uso e registros técnicos simplificados |
@@ -589,22 +669,23 @@ O projeto terá duração de **24 meses**, com início em **agosto de 2026** e t
 
 ```mermaid
 gantt
-    title Cronograma do Projeto ConectaTech Sinop - Agosto/2026 a Julho/2028
+    title Cronograma do Projeto Integratech - Agosto/2026 a Julho/2028
     dateFormat  YYYY-MM-DD
     axisFormat  %m/%Y
 
     section Organização e Divulgação
     Organização inicial do projeto           :a1, 2026-08-01, 2026-09-30
-    Divulgação e prospecção de demandas      :a2, 2026-08-15, 2026-10-31
+    Ambientação e padronização de ferramentas :a2, 2026-09-01, 2026-10-31
+    Divulgação e prospecção de demandas      :a3, 2026-08-15, 2026-10-31
 
     section Entrada e Planejamento das Demandas
-    Recebimento e triagem das demandas       :b1, 2026-09-01, 2026-12-31
-    Formação das equipes de alunos           :b2, 2026-10-01, 2026-12-31
-    Plano enxuto de atendimento              :b3, 2026-10-15, 2027-01-31
+    Recebimento, triagem e priorização       :b1, 2026-09-01, 2026-11-30
+    Formação das equipes de alunos           :b2, 2026-10-01, 2026-11-30
+    Plano enxuto de atendimento              :b3, 2026-10-15, 2026-11-30
 
     section Desenvolvimento - Primeiro Ciclo
-    Desenvolvimento das primeiras soluções   :c1, 2027-01-01, 2027-07-31
-    Validação parcial com parceiros externos :c2, 2027-03-01, 2027-07-31
+    Desenvolvimento das primeiras soluções   :c1, 2026-11-01, 2027-07-31
+    Validação parcial com parceiros externos :c2, 2027-01-01, 2027-07-31
 
     section Desenvolvimento - Segundo Ciclo
     Ampliação dos atendimentos               :d1, 2027-08-01, 2027-12-31
@@ -742,17 +823,57 @@ Espera-se que o projeto contribua para:
 
 ## 21. Observações sobre Propriedade, Uso e Responsabilidade
 
-As soluções desenvolvidas no âmbito do projeto terão caráter acadêmico e extensionista. Quando necessário, poderão ser definidos termos específicos sobre uso, continuidade, manutenção, disponibilização de código-fonte, hospedagem, dados e responsabilidades.
+As soluções desenvolvidas no âmbito do projeto terão caráter acadêmico e extensionista.
 
-O projeto não substituirá contratos profissionais de desenvolvimento de software, suporte técnico permanente ou manutenção comercial. As entregas serão compatíveis com a capacidade acadêmica dos alunos, com a orientação docente disponível e com os objetivos da extensão universitária.
+### 21.1 Propriedade intelectual e uso da solução
 
-Informações confidenciais, dados pessoais, dados empresariais e informações sensíveis deverão ser tratados com responsabilidade, respeitando boas práticas de segurança, privacidade e ética.
+A empresa parceira poderá receber direitos de uso, exploração econômica, cessão ou licença da solução desenvolvida para sua própria demanda, desde que isso esteja previsto de forma expressa na Carta de Aceite, no Plano Enxuto de Atendimento ou em termo específico, sempre observadas as normas institucionais vigentes da universidade e a legislação aplicável.
+
+Na ausência de instrumento específico, a titularidade, o uso do código-fonte, a divulgação e a disponibilização da solução deverão seguir a legislação aplicável e as regras institucionais da universidade.
+
+Para cada demanda, recomenda-se que a coordenação, o orientador e o parceiro externo escolham expressamente um dos modelos apresentados no **Anexo - Modelos de Propriedade Intelectual**, registrando essa definição na Carta de Aceite, no Plano Enxuto de Atendimento ou em termo complementar.
+
+### 21.2 Dados, sigilo, ferramentas e infraestrutura
+
+Quando houver tratamento de dados pessoais, dados empresariais ou informações sensíveis, os participantes deverão respeitar as normas internas do parceiro externo, as normas institucionais vigentes da universidade e a legislação aplicável, especialmente a **Lei nº 13.709/2018 (LGPD)**, adotando tratamento restrito à finalidade do projeto, acesso mínimo necessário, sigilo e cuidados básicos de segurança da informação.
+
+Os trabalhos poderão ser executados com notebooks, softwares, contas, acessos e recursos eventualmente disponibilizados pela empresa parceira, quando houver, ou com equipamentos e infraestrutura já existentes nos laboratórios da universidade. A definição prática das ferramentas de trabalho será registrada no plano de atendimento de cada demanda.
+
+### 21.3 Limites de manutenção, continuidade e encerramento
+
+O projeto não substituirá contratos profissionais de desenvolvimento de software, suporte técnico permanente ou manutenção comercial. O projeto também não prevê acompanhamento contínuo da solução após o encerramento das atividades do discente, salvo se houver novo ciclo acadêmico formalmente aprovado.
+
+Por essa razão, o escopo das soluções deverá ser compatível com a carga horária máxima de até 300 horas por discente ou com a carga horária global prevista para a equipe responsável.
+
+Em caso de desistência ou abandono da atividade, o discente deverá comunicar formalmente a coordenação, o professor orientador e o parceiro externo. Nessas situações, as horas não serão contabilizadas para fins de certificação, e o certificado somente será emitido quando houver entrega final regular e encerramento validado no projeto.
 
 ---
 
 ## 22. Síntese Final
 
-O **ConectaTech Sinop: Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação** propõe um modelo de extensão universitária simples, prático e menos burocrático, voltado ao atendimento de demandas reais da comunidade.
+O **Integratech: Laboratório Extensionista de Soluções Digitais, Inovação e Agrocomputação** propõe um modelo de extensão universitária simples, prático e menos burocrático, voltado ao atendimento de demandas reais da comunidade.
 
 A proposta preserva o melhor dos modelos anteriores: o atendimento tecnológico aplicado, o desenvolvimento de soluções reais e a formação prática dos acadêmicos. Ao mesmo tempo, reduz o excesso de relatórios, simplifica o acompanhamento e prioriza entregas úteis para empresas, produtores rurais, empreendedores e instituições de Sinop e região.
+
+---
+
+## 23. Anexo - Modelos de Propriedade Intelectual
+
+### 23.1 Modelo de cessão para a empresa parceira
+
+**Modelo resumido de cláusula**
+
+As partes acordam que os direitos patrimoniais de uso e exploração da solução desenvolvida no âmbito desta demanda serão cedidos à empresa parceira **[nome da empresa]**, para utilização em suas atividades internas e finalidades institucionais ou empresariais, conforme escopo aprovado no projeto. O discente autor e a universidade poderão manter registro acadêmico da atividade, preservada a autoria e observadas as restrições de sigilo, confidencialidade e normas institucionais aplicáveis.
+
+### 23.2 Modelo de licença de uso para a empresa parceira
+
+**Modelo resumido de cláusula**
+
+As partes acordam que a solução desenvolvida no âmbito desta demanda permanecerá com titularidade definida conforme instrumento específico e normas institucionais aplicáveis, ficando a empresa parceira **[nome da empresa]** licenciada para uso da solução no contexto de sua própria operação, sem transferência automática de titularidade do código-fonte, salvo disposição expressa em contrário. O alcance da licença, eventuais restrições de compartilhamento e condições de continuidade deverão constar no Plano Enxuto de Atendimento ou em termo próprio.
+
+### 23.3 Modelo de titularidade institucional com autorização de uso
+
+**Modelo resumido de cláusula**
+
+As partes acordam que a solução desenvolvida no âmbito desta demanda permanecerá vinculada à titularidade institucional ou ao regime definido pela universidade, sendo concedida à empresa parceira **[nome da empresa]** autorização de uso da solução para fins internos, educacionais, operacionais ou de validação, conforme escopo aprovado. Eventual ampliação de uso, cessão a terceiros, exploração comercial ou transferência de código-fonte dependerá de instrumento específico e autorização expressa das partes competentes.
 
