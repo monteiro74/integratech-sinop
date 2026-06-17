@@ -87,7 +87,7 @@
 | **Área temática** | Tecnologia, Inovação, Desenvolvimento Regional e Agrocomputação |
 | **Coordenador** | Prof. Dr. Emiliano Soares Monteiro |
 | **Vice-coordenador** | Prof. Dr. Benevid Félix da Silva |
-| **Professores orientadores** | Prof. Dr. Ivan Luiz Pedroso Filho;<br> Prof. Dr. Benevid Félix da Silva (vice coord.);<br> Prof. Msc. Francisco Sanches Banhos Filho |
+| **Professores orientadores** | 1. Prof. Dr. Ivan Luiz Pedroso Filho;<br> 2. Prof. Dr. Benevid Félix da Silva;<br> 3. Prof. Msc. Francisco Sanches Banhos Filho; <br> 4. Prof. Dr. Emiliano S. Monteiro. |
 | **Período de execução** | Agosto de 2026 a julho de 2028 |
 | **Duração** | 24 meses |
 | **Local de execução** | Sinop e região norte de Mato Grosso |
