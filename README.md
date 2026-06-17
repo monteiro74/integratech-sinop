@@ -89,10 +89,14 @@
 | **Vice-coordenador** | Prof. Dr. Benevid Félix da Silva |
 | **Professores orientadores** | 1. Prof. Dr. Ivan Luiz Pedroso Filho;<br> 2. Prof. Dr. Benevid Félix da Silva;<br> 3. Prof. Msc. Francisco Sanches Banhos Filho; <br> 4. Prof. Dr. Emiliano S. Monteiro. |
 | **Período de execução** | 10 de agosto de 2026 a 9 de agosto de 2028 |
+| **Mês previsto de início** | Agosto de 2026 |
+| **Mês previsto de fim** | Agosto de 2028 |
 | **Duração** | 24 meses |
 | **Local de execução** | Sinop e região norte de Mato Grosso |
 | **Público-alvo** | Empresas, produtores rurais, empreendedores, instituições públicas, organizações da sociedade civil, cooperativas, associações e comunidade regional |
 | **Vagas** | Até 5 alunos por professor orientador por semestre, conforme disponibilidade de orientação e compatibilidade das demandas. |
+| **Total estimado de alunos atendidos** | Até 75 alunos ao longo dos 24 meses |
+| **Total estimado de empresas atendidas** | Até 30 empresas/parceiros externos ao longo dos 24 meses |
 
 ---
 
